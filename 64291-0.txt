@@ -1,0 +1,7087 @@
+﻿The Project Gutenberg eBook of Come prima meglio di prima, by Luigi
+Pirandello
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Come prima meglio di prima
+       Commedia in tre atti
+
+Author: Luigi Pirandello
+
+Release Date: January 14, 2021 [eBook #64291]
+
+Language: Italian
+
+Character set encoding: UTF-8
+
+Produced by: Barbara Magni and the Online Distributed Proofreading Team at
+             http://www.pgdp.net (This file was produced from images made
+             available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK COME PRIMA MEGLIO DI PRIMA ***
+
+                             MASCHERE NUDE
+
+
+                            LUIGI PIRANDELLO
+
+
+                               COME PRIMA
+                            MEGLIO DI PRIMA
+
+                          COMMEDIA IN TRE ATTI
+
+
+
+                                  1921
+                  R. BEMPORAD & F. — EDITORI — FIRENZE
+            Librerie a Firenze, Milano, Roma, Pisa, Napoli,
+            Palermo, Trieste Torino e Genova: S. Lattes e C.
+
+
+
+
+                     PROPRIETÀ LETTERARIA RISERVATA
+
+      per tutti i paesi compresi la Svezia, la Norvegia e l'Olanda
+
+                _Copyright 1921 by R. Bemporad e Figlio_
+
+     1921 — Tipografia Luigi Parma — Bologna — Via Tre Novembre, 7
+
+
+
+
+PERSONAGGI
+
+
+  FULVIA GELLI, (Flora e Francesca).
+  SILVIO GELLI, suo marito.
+  LIVIA, loro figlia.
+  MARCO MAURI.
+  La zia ERNESTINA GALIFFI.
+  BETTA, vecchia governante.
+  Don CAMILLO ZONCHI.
+  La vedova NÀCCHERI.
+  GIUDITTA, sua figlia.
+  Il fattore ROGHI.
+  Il signor CESARINO, organista e maestro di musica.
+  La signora BARBERINA, sua moglie.
+  Un commesso di negozio.
+  GIOVANNI, giardiniere
+  Una bambinaja.
+
+Il primo atto, in un paese della Valdichiana; il secondo e il terzo, in
+una villa presso il lago di Como. — Oggi.
+
+
+
+
+ATTO PRIMO
+
+
+SCENA
+
+Una sala della _Pensione Zonchi_: vasta sala di vecchia casa a cui
+l'intonaco nuovo non riesce a mascherar la vecchiaja. Un ampio e alto
+uscio a vetri nel mezzo lascia scorgere la scura saletta d'ingresso,
+che ha in fondo, a sua volta, un usciolino aperto sulla scaletta
+dell'orto, di cui si vede il pianerottolo con la ringhierina di legno
+verde, scolorita. Lo sfondo, oltre questa ringhierina, è di cielo, e
+luminoso, perchè la casa sorge alta sul colle e da quel pianerottolo si
+gode la vista della grande vallata e si dòmina la via che da essa sale
+al colle, girandolo due volte.
+
+L'uscio a vetri, chiuso, non lascia più intravedere la saletta
+d'ingresso, perchè a una certa altezza ha sui vetri una tendina di
+mussola celeste, goffa e nuova, fissata rusticamente alle bacchette.
+
+Nella sala, il solito arredo delle vecchie pensioni di provincia,
+disposto con meticolosa simmetria. Una stufa di porcellana; un canapè
+d'antica foggia, con poltroncine e seggiole imbottite, adorni di
+cuscini e ricamini fatti in casa; una mensola non meno antica con un
+grande specchio dalla grossa cornice rameggiata e dorata, coperta da
+una garza celeste, ingiallita, a riparo delle mosche; vasetti con fiori
+di carta; una cantoniera con ninnoli di vecchia majolica; oleografie
+volgari, un po' annerite, alle pareti, e un'antica pendola che batte le
+ore e mezz'ore con un languido suono di campana lontana.
+
+Usci laterali a destra e a sinistra.
+
+Chiara mattinata, sulla fine d'aprile.
+
+
+  Al levarsi della tela sono in iscena Don CAMILLO ZONCHI, il fattore
+  ROGHI, la vedova NÀCCHERI e sua figlia GIUDITTA. Queste due sul
+  pianerottolo della scaletta dell'orto, in fondo, guardano giù
+  nella vallata, la Nàccheri con un binòculo, la figlia Giuditta
+  facendosi solecchio d'una mano, se da lontano lontano, sulla via
+  che sale al colle, si scorgano le vetture di ritorno dalla stazione
+  ferroviaria. Don Camillo Zonchi e il Roghi sono nella sala; questi,
+  seduto su una seggiola presso il canapè; l'altro in piedi.
+
+  La vedova Nàccheri, sui cinquant'anni, ha un curioso parucchino
+  ondulato fitto fitto e pieno di riccetti sulla fronte, stretto in
+  una reticella. Il volto magro, angoloso, dagli occhi calvi, biavi,
+  infossati, dà l'impressione d'una maschera, tutto bianco com'è di
+  cipria e goffamente ritinto; ma con l'orribile effetto d'un teschio
+  imbellettato. Veste giovenilmente, costringendo la vecchia persona
+  a una ridicola snellezza e a una buffa formosità. Parla a scatti e
+  con quasi legittimo impero al cognato; con piglio scostante, alla
+  figlia, di cui è gelosa; agli altri, con una languida importanza di
+  decaduta signora. La figlia Giuditta ha ventott'anni: abbandonata
+  dal marito, è umile e trasandata; capelli cascanti, viso giallo
+  incavato, e un'aria smarrita di povera bestia raccolta per carità.
+  Don Camillo Zonchi ha cinquantaquattr'anni: canonichetto della
+  Collegiata e maestro di scuola. È un omarino bruno, itterico,
+  nervoso, con occhietti cattivi. Sopporta lo scandaloso impero della
+  cognata friggendo d'umiltà vergognosa. Padrone della _Pensione_,
+  vi figura da ospite della Nàccheri, a cui, almeno in apparenza, ne
+  lascia il governo. È senza sottana, con una lunga giacca di saja
+  nera; colletto da prete fissato alla sottoveste; calzoni a mezza
+  gamba; calze lunghe di lana e fibbie d'argento alle scarpette.
+  Il fattore Roghi, sulla quarantina, è un omaccione pesante,
+  triste, dalla barba non rifatta da parecchi giorni. Ha una giacca
+  alla cacciatora, un vecchio cappellaccio bianco in capo: grossi
+  stivaloni da campagna, con sproni.
+
+
+DON CAMILLO
+
+(_in attesa, rivolto alle due donne che guardano dalla scaletta
+dell'orto_) No, eh?
+
+ROGHI
+
+(_dopo una breve pausa d'attesa_) Sarà un po' troppo presto.
+
+DON CAMILLO
+
+(_stizzito, in attesa ancora della risposta_) Ehi, Giuditta, dico a te!
+
+LA NÀCCHERI
+
+(_venendo avanti dalla scaletta, furiosa e schizzante veleno_) Crederei
+che se ci fosse da vedere, tra me e la Giuditta, a me e non a lei
+dovreste domandare, perchè con questo (_mostrando il grosso binòculo e
+pigiando sulle parole_) se ci fosse da vedere — vedrei meglio io, che
+lei.
+
+DON CAMILLO
+
+Eh no, abbiate pazienza, Marianna. Anche con queste (_mostra le lenti
+e se le inforca sulla punta del naso_), tra me e il signor Roghi, vedo
+sempre meno io, che lui.
+
+ROGHI
+
+Ah sì, grazie a Dio, la vista...
+
+LA NÀCCHERI
+
+Ma anch'io, signor Roghi, anch'io! Non ho punto bisogno di lenti io,
+sa? nè per leggere, nè per cucire, nè per veder qua entro certe cose,
+che Dio sa se s'avrebbero a vedere!
+
+DON CAMILLO
+
+Eh via, Marianna! Non è di cose da veder qua entro che si discorre;
+ma delle vetture giù a valle, Dio buono, se non si scorgano di ritorno
+dalla stazione.
+
+GIUDITTA
+
+(_che ha seguitato a guardare_) Eccole, eccole! Già due! Ma vanno in
+giù!
+
+  La Nàccheri corre a guardare col binòculo.
+
+DON CAMILLO
+
+In giù? O come in giù? Possibile?
+
+GIUDITTA
+
+Sì. Eccone un'altra! La vettura di Dodo.
+
+LA NÀCCHERI
+
+Ma che di Dodo! Quella di Dodo è la prima!
+
+GIUDITTA
+
+No, mamma; guardate bene: è la terza.
+
+LA NÀCCHERI
+
+La prima!
+
+DON CAMILLO
+
+O la prima o la terza, se vanno in giù...
+
+LA NÀCCHERI
+
+(_voltandosi di là verso il cognato, inviperita_) Vi dico che è la
+prima!
+
+ROGHI
+
+Mi par difficile che si possano distinguere a tanta distanza. Si vedran
+di quassù piccine piccine, così (_fa segno sull'indice_). E Dodo, mi
+scusi, signora Marianna, l'ho visto io partir di piazza dopo gli altri.
+
+LA NÀCCHERI
+
+Questo non vorrebbe dir nulla, perchè ha un cavallo, Dodo, per sua
+norma, che è un demonio peggio di lui. Anche a partir l'ultimo, arriva
+sempre il primo.
+
+GIUDITTA
+
+(_alla madre, guardando sempre_) E difatti, guardi, guardi: ha già
+sorpassato la seconda e sta per sorpassar la prima. Tant'è vero che è
+lui!
+
+  La Nàccheri scrolla le spalle e viene in sala.
+
+DON CAMILLO
+
+Io non so, saran tutte in ritardo stamani. A quest'ora, di solito (_la
+pèndola batte le undici_) ecco, sono le undici — gli altri giorni, alle
+undici, son di ritorno e si vedono alla seconda girata dello stradone
+su per la costa. A proposito, Giudi... (_s'interrompe, imbarazzato,
+cercando di riprendersi_) — cioè, dico...
+
+LA NÀCCHERI
+
+(_di nuovo inviperita, chiamando_) Giuditta! E vieni, corri qua a
+sentir che altro vuol domandarti tuo zio!
+
+DON CAMILLO
+
+(_c. s._) Ma niente, niente... Volevo dire una cosa... (_forzandosi
+a far viso fermo_) una cosa appunto, che mi pareva da domandar a lei
+piuttosto che a voi.
+
+LA NÀCCHERI
+
+(_sfidandolo_) E su, ditela! Sentiamo!
+
+DON CAMILLO
+
+(_volgendosi al Roghi_) Ho insegnato al signor professore, prima che
+partisse, la malizia di far fermare al ritorno la vettura giù sotto al
+nostro orto, per tagliar la salita alla scorciatoja, anzichè fare, con
+la vettura al passo, tutta la girata fin quassù in cima.
+
+LA NÀCCHERI
+
+(_c. s._) E poi?
+
+DON CAMILLO
+
+Volevo appunto domandare alla Giuditta, se si era ricordata d'andare ad
+aprire il cancellino dell'orto giù.
+
+LA NÀCCHERI
+
+Niente altro? (_Rivolgendosi alla figlia, che si tiene in discosto,
+mortificata_) Su, e rispondi a tuo zio, se ti sei ricordata!
+
+GIUDITTA
+
+(_guardando in là, infastidita_) Ma sì, sì, è aperto.
+
+LA NÀCCHERI
+
+(_con un inchino ironico al cognato, come se lo facesse per conto della
+figlia_) È aperto. — Un ordine dello zio! Mi pareva assai che non se ne
+fosse ricordata! Avesse mai obbedito così a suo marito! Non mi sarebbe
+rimasta lì melensa per casa; sulle braccia, e così, nè acerba, nè
+matura.
+
+ROGHI
+
+Ma è poi sicuro, don Camillo, che il professore ritornerà stamattina?
+Non vorrei star qui ad aspettarlo inutilmente.
+
+DON CAMILLO
+
+Ma che! Per ritornare, ritorna di sicuro!
+
+LA NÀCCHERI
+
+Vorrei vedere che non ritornasse! — Ah, io sono stufa, sa!
+
+DON CAMILLO
+
+Per carità, Marianna!
+
+LA NÀCCHERI
+
+Stufa! stufa! stufa!
+
+DON CAMILLO
+
+State tranquilla, che ritornerà. — Ma non vi nascondo, caro Roghi,
+che mi par difficile, difficile per non dire impossibile, che voglia
+accettare il vostro invito.
+
+ROGHI
+
+Neanche per un semplice consulto?
+
+DON CAMILLO
+
+Ma neanche...
+
+ROGHI
+
+A me basterebbe che me la vedesse, la mia povera bambina!
+
+DON CAMILLO
+
+Eh, se vi riesce che vi venga a vederla! — Detto e fatto, ve la opera e
+ve la salva!
+
+ROGHI
+
+Dio volesse! Verrei a prenderlo subito subito con l'automobile.
+
+GIUDITTA
+
+Per essere, è la carità in persona!
+
+DON CAMILLO
+
+Già; ma non può. Capirete, dopo il miracolo di qui...
+
+LA NÀCCHERI
+
+(_interrompendo_) È giusto qui ci voleva codesto miracolo!
+
+DON CAMILLO
+
+(_con un'occhiataccia alla cognata, passando sopra all'interruzione_)
+Sparsa la fama, tutti vorrebbero averlo!
+
+ROGHI
+
+Ma come jeri, a un bisogno, è andato a Sarteano, così non potrebbe
+oggi...?
+
+DON CAMILLO
+
+Non può! Avrà più di venti richieste, a dir poco.
+
+LA NÀCCHERI
+
+E non ci mancherebbe altro che, per carità degli altri, tenesse qua noi
+nello scompiglio ancora per un mese!
+
+DON CAMILLO
+
+Lassù a Merate ha poi la figliuola... avrà i suoi affari. Era venuto
+qua per un giorno solo...
+
+LA NÀCCHERI
+
+E ne son passati la grazia di quarantacinque!
+
+GIUDITTA
+
+Par che la figliuola lassù non sappia ancor nulla.
+
+ROGHI
+
+Ah sì? Della madre qui?
+
+DON CAMILLO
+
+(_ammiccando e accennando con la mano all'uscio a destra_) Piano, eh!
+piano... S'è già levata di letto. — (_Misteriosamente al Roghi_) Ah,
+caro Roghi, come non siamo tutti esciti di cervello, io non lo so!
+
+ROGHI
+
+Con quel giudice, eh?
+
+DON CAMILLO
+
+(_irritato_) Ma che giudice! Ma che giudice! Non diciamo giudice, per
+carità!
+
+GIUDITTA
+
+(_molle molle, afflitta_) Un matto, s'ha a dire!
+
+DON CAMILLO
+
+(_incalzando_) Da legare, s'ha a dire!
+
+GIUDITTA
+
+(_lamentosamente_) Quel che ci fece vedere!
+
+DON CAMILLO
+
+(_collerico, incalzando ancora_) Il diavolo! Tutti i diavoli
+dell'inferno! Non mi ci fate pensare!
+
+LA NÀCCHERI
+
+(_che è stata a mirarli, zio e nipote_) Attento veh, attento, signor
+Roghi, come parlano adesso tutt'e due.
+
+DON CAMILLO
+
+(_stordito_) O come parliamo?
+
+LA NÀCCHERI
+
+Una, molle molle: (_rifacendole il verso con voce nasina_) «Quel che
+ci fece vedere!» E lui, là, come il rum che dà grazia alla ricotta:
+(_rifacendo il verso anche a lui_) «Il diavolo! Tutti i diavoli
+dell'inferno!»
+
+ROGHI
+
+(_non potendo tenersi di ridere_) Avete voglia di scherzare, signora
+Marianna!
+
+DON CAMILLO
+
+Già! Come se proprio ne fosse il momento... O che non è vero che qua
+s'è visto il diavolo?
+
+LA NÀCCHERI
+
+Ma no, eh, chè non istà bene, il diavolo in casa d'un sacerdote come
+voi. Il terremoto, si dice! E creda, signor Roghi, che mi sarei tanto
+spassata, io, a vederli ballare tutt'e due, zio e nipote, se per causa
+loro non fosse toccato di ballare anche a me!
+
+DON CAMILLO
+
+Se si potesse saper prima le cose!
+
+LA NÀCCHERI
+
+Gran merito allora, saperle dopo!
+
+DON CAMILLO
+
+Potevo mai supporre che il marito dovesse accorrer qui?
+
+LA NÀCCHERI
+
+Ma sì, che potevate, se lo chiamaste proprio voi!
+
+DON CAMILLO
+
+Nossignori! Nient'affatto! Io gli scrissi a Merate per il mio ministero
+di sacerdote, appena ricevuta la confessione.
+
+ROGHI
+
+Ah, quando la signora si tirò?
+
+DON CAMILLO
+
+Precisamente. Volle confessarsi. Per morire in pace con tutti,
+chiese per mio mezzo al marito il perdono de' suoi trascorsi. Ora il
+professore poteva rispondere alla mia lettera con un'altra lettera.
+Nossignori. Per sua bontà, preferì venire ad accordar di presenza il
+perdono.
+
+ROGHI
+
+E trovò qui quell'altro?
+
+DON CAMILLO
+
+Che c'era piombato da Perugia all'alba, poche ore dopo che la signora
+s'era ferita. Nel trambusto, in principio, non ce n'eravamo neanche
+accorti.
+
+GIUDITTA
+
+Non sapevamo chi fosse la signora...
+
+DON CAMILLO
+
+Si vide lui attorno al letto, che piangeva, piangeva, come non ho mai
+visto nessuno!
+
+ROGHI
+
+Eh, l'amante!
+
+LA NÀCCHERI
+
+Sì, amante... Che amante! — Uno dei tanti. — L'ultimo.
+
+ROGHI
+
+Ah, perchè la signora... Sì, dico, — andata proprio a male?
+
+LA NÀCCHERI
+
+Ma sì, roba... roba da guerra!
+
+GIUDITTA
+
+Piano, per carità!
+
+LA NÀCCHERI
+
+Ih che scrupoli! Non c'è poi mica d'aver tanti riguardi!
+
+DON CAMILLO
+
+Ma almeno per il professore!
+
+LA NÀCCHERI
+
+Sì — che vi pagherà le spese. Il fastidio, intanto, non ve lo paga, di
+sicuro! Di due mesi a momenti.
+
+DON CAMILLO
+
+Oh che discorsi! (_Poi, ipocritamente al Roghi_) La signora aveva
+abbandonato da tredici anni il tetto coniugale, e... (_abbandona la
+frase, socchiudendo gli occhi, a un indulgente gesto delle mani_).
+
+LA NÀCCHERI
+
+(_rifacendo smorfiosamente con aria compunta il gesto del cognato_)
+E... e... (_Subito, staccando_) Qua, dietro l'esempio, caro lei, una
+voglia abbiamo tutti, ma una voglia di farci male con la indulgenza e
+la sopportazione, che Dio, si spera, ne vorrà tener conto lassù, perchè
+quaggiù, quanto agli uomini, non si fa che rider di noi, gliel'assicuro
+io!
+
+DON CAMILLO
+
+Ma non è vero!
+
+LA NÀCCHERI
+
+(_staccando ancora_) Oh, ce n'è, dico, di paesi, in Valdichiana; e di
+pensioni qua, per la cura delle acque, dico, non c'è soltanto la mia!
+Ebbene: proprio qua doveva capitare codesta signora, e proprio da noi!
+Ma colpa sua, veh! (_indica il cognato_) Sua, e di quella lì! (_indica
+la figlia_).
+
+GIUDITTA
+
+Son io sempre la colpa di tutto...
+
+LA NÀCCHERI
+
+Se per te non fosse vangelo, sempre, tutto ciò che dice e fa tuo zio! —
+E così, m'intende, tutti i malanni, alla fine, mi si rammucchiano qui!
+— Ah, che! Non si maturerà mai nulla qui: (_cantarellando_) c'è troppe
+frasche!
+
+DON CAMILLO
+
+La vidi arrivar di sera, in legno! giusto con Dodo. Sola, mogia mogia,
+con una valigina... Io ritornavo da scuola...
+
+LA NÀCCHERI
+
+Non c'ero, io!
+
+GIUDITTA
+
+Ma noi si disse bene, mamma, che la pensione non era ancora aperta ai
+forestieri.
+
+LA NÀCCHERI
+
+E dunque, non si doveva pigliare!
+
+DON CAMILLO
+
+Di bujo, una signora sola... Insistette, chiedendoci posto almeno per
+la notte...
+
+GIUDITTA
+
+(_scotendo in aria le mani_) E la notte...
+
+LA NÀCCHERI
+
+Un botto, caro lei, nel silenzio della casa, che mi fece springar un
+palmo su dal letto!
+
+ROGHI
+
+Ma si tirò proprio al ventre?
+
+DON CAMILLO
+
+Che! Al cuore aveva mirato.
+
+LA NÀCCHERI
+
+Lo suppone lui!
+
+DON CAMILLO
+
+Ma sì! Mano di donna... Premendo il grilletto, la canna — voi capite —
+s'abbassò. Si ferì al ventre.
+
+GIUDITTA
+
+Accorremmo tutti. Poverina, sul letto...
+
+LA NÀCCHERI
+
+Poverina, già!
+
+ROGHI
+
+Eh via, in quello stato...
+
+DON CAMILLO
+
+Bianca come un cencio, sorrideva come a chiederci scusa, e diceva che
+non era nulla... — Lei scappò per il medico (_indica Giuditta_).
+
+ROGHI
+
+Il dottor Balla?
+
+DON CAMILLO
+
+Sapete com'è!
+
+ROGHI
+
+Se lo so! Mi sta lasciando finir così la mia povera figliuola!
+
+DON CAMILLO
+
+E anche qui difatti disse che non c'era più da far nulla; quando
+invece, venuto il professore, si vide che a operarla in tempo non ci
+sarebbe stato rischio di sorta; mentre, quando poi la operò lui, il
+marito, dopo quattro giorni, già tutta infetta, capirete, agonizzante,
+il caso s'era fatto disperato.
+
+GIUDITTA
+
+E quel matto lì che non voleva! non voleva!
+
+ROGHI
+
+Ah sì? — L'amante? Oh bella! Non voleva che il marito la operasse?
+
+DON CAMILLO
+
+Che! Fece il diavolo a quattro! Se la voleva caricar su le braccia e
+portar via, così moribonda, per non fargliela toccare!
+
+ROGHI
+
+Oh bella!
+
+DON CAMILLO
+
+Perchè diceva che, se il marito la salvava, era perduta per lui!
+
+GIUDITTA
+
+Ed era più contento che morisse!
+
+ROGHI
+
+E il marito? o come fece a sopportarselo davanti, e così accanto alla
+moglie?
+
+DON CAMILLO
+
+Se la prese con me!
+
+LA NÀCCHERI
+
+Che gusto!
+
+DON CAMILLO
+
+Già, come se non avessi fatto di tutto, io, per farlo andar via, prima
+ch'egli arrivasse. Non ci fu verso! — Tanto vero che non se ne volle
+andare, neppur quando arrivò lui, che dopo tutto, ohè, dico, era il
+marito!
+
+  Giuditta a questo punto, si recherà di nuovo in fondo a guardare,
+  se si scorgano le vetture di ritorno.
+
+LA NÀCCHERI
+
+E come gli tenne testa! Bisognava vedere!
+
+ROGHI
+
+Sì, eh?
+
+DON CAMILLO
+
+Col pretesto, capite? che in punto di morte non c'è più gelosie, e che
+il marito non poteva, dice, adontarsi di lui, dopo tredici anni e dopo
+ciò ch'era passato. Si dovette mandarlo via con le guardie.
+
+GIUDITTA
+
+(_dal pianerottolo della saletta in fondo, annunziando_) Ecco, ecco,
+ritornano le vetture!
+
+  La Nàccheri accorre come una papera.
+
+DON CAMILLO
+
+Oh finalmente!
+
+GIUDITTA
+
+(_con un grido di spavento_) Oh Dio! Ma è lui! Lui, di nuovo qua!
+
+ROGHI
+
+Chi lui?
+
+DON CAMILLO
+
+Il matto? Di nuovo qua?
+
+LA NÀCCHERI
+
+Lui! sì! lui! lui! — Rièccoci daccapo!
+
+DON CAMILLO
+
+Ma come! Che altro, ora, vorrà qua?
+
+GIUDITTA
+
+(_ritirandosi impaurita_) Vien su di corsa! ha scavalcato il murello
+dell'orto!
+
+ROGHI
+
+È una bella sfrontatezza!
+
+DON CAMILLO
+
+E di nuovo in assenza del signor professore! Se lo ritroverà qui tra i
+piedi!
+
+LA NÀCCHERI
+
+E come giulivo! Fa i gesti, oh, così... così... (_agita in aria le
+braccia_).
+
+ROGHI
+
+Dateci man forte per carità, caro Roghi! Non bisogna farlo entrar qua
+dalla signora! — Andiamo, andiamo via tutti di là! (_indica la saletta
+d'ingresso e s'avvia spingendo fuori gli altri_) Chiudiamo quest'uscio!
+Chiudiamo quest'uscio!
+
+  Richiude l'uscio a vetri, andando via col Roghi, con la Nàccheri e
+  Giuditta.
+
+  Quasi contemporaneamente s'apre l'uscio a destra e appare FULVIA
+  GELLI, incerta, sgomenta, pallidissima, come una che sia stata
+  or ora strappata dalle mani della morte. Ha tuttavia negli occhi
+  un che di fosco; e il volto è come indurito, sassificato in una
+  disperazione squallida e atroce.
+
+  Venuta qui per morire, sprovvista di tutto, levandosi ora di letto,
+  ha indossato — in mancanza d'altro — il suo abito di viandante
+  perduta, che stride, in contrasto con quella disperazione del
+  volto. Stridono ancor più i voluminosi magnifici capelli in
+  disordine, sfacciatamente ritinti d'un color fulvo acceso, che le
+  avviluppano come in una fiamma lingueggiante il volto disperato.
+  Non ha avuto forza d'agganciarsi il busto sul seno, che è quasi
+  scoperto, e pròvoca, ma frigidamente, poichè ella ha un evidente
+  sdegno e un vero intimo odio per la sua bella persona, come se
+  da un pezzo non le appartenesse più, e non sapesse più neppure
+  com'esso è, non avendo mai, se non con feroce ribrezzo, condiviso
+  la gioja che gli altri ne han preso.
+
+  Muove alcuni passi per la sala, verso l'uscio a vetri chiuso,
+  attraverso al quale giungono le voci concitate delle due donne, di
+  don Camillo e del Roghi, che cercano d'impedire il passo a MARCO
+  MAURI. A un tratto, però, questi, sbarazzandosi di tutti con uno
+  strappo violento, irrompe spalancando l'uscio e si precipita su
+  Fulvia (ch'egli chiama Flora) abbracciandola, stringendola a sè
+  freneticamente. È sulla quarantina, bruno, magro, con lucidi occhi
+  sfuggenti, da matto: quasi ìlari, pur nella più fiera esagitazione,
+  ìlari e parlanti. Fronte rotonda, specchiante. Capelli da negro,
+  crespi e gremiti, ma già in parte grigi, spartiti nel mezzo.
+  Sopracciglia foltissime. Parla e gestisce con quella certa
+  teatralità che è propria della passione esaltata: teatralità calda
+  e sincera, ma che pure, a tratti, quasi vede sè stessa, e scatta
+  allora per rimorso in gesti irosi, o scade, quasi in compenso,
+  improvvisamente, in toni confidenziali, che fanno, per contrasto e
+  così senza trapasso, un curiosissimo effetto.
+
+  Fulvia tenta dapprima di respingere, quasi odiosamente,
+  l'abbraccio; ma poi, investita, soffocata da quella frenesia, nello
+  smarrimento della debolezza che il male recente le ha lasciato,
+  vien meno e s'abbandona come morta tra le braccia di lui.
+
+MAURI
+
+(_liberandosi e spalancando l'uscio_) Via tutti, vi dico!
+(_precipitandosi su Fulvia e abbracciandola c. s._) Flora! Flora mia!
+Flora! Flora! — Libero! Sono libero! Ritorno a te, liberato! — Mi son
+liberato di tutto e di tutti! (_Notando che ella gli s'abbandona tra le
+braccia, riversa_) Flora mia!
+
+  A questo grido, don CAMILLO, il ROGHI, la NÀCCHERI e GIUDITTA,
+  che sono entrati nella sala dietro il Mauri e, sopraffatti dalla
+  violenza, son rimasti sgomenti e sospesi a mirare il frenetico
+  abbraccio, accorrono premurosi e minacciosi gridando insieme.
+
+ROGHI
+
+Ma non vede, perdio, che non si regge!
+
+DON CAMILLO
+
+Che violenze son codeste?
+
+GIUDITTA
+
+È svenuta! è svenuta!
+
+MAURI
+
+Svenuta? No! no! — Flora!
+
+DON CAMILLO
+
+(_aggressivo_) La lasci! via! — La lasci, e vada via subito di qua!
+
+MAURI
+
+(_senza dargli ascolto, sorreggendo Fulvia_) Flora mia... Flora...
+Flora...
+
+DON CAMILLO
+
+(_alle donne_) Ma levategliela dalle mani!
+
+  Giuditta e la Nàccheri si fanno avanti.
+
+GIUDITTA
+
+Dia qua... dia qua...
+
+MAURI
+
+(_gridando minaccioso_) Non me la tocchi nessuno!
+
+DON CAMILLO
+
+Non appartiene mica a lei!
+
+MAURI
+
+Appartiene a me! a me!
+
+DON CAMILLO
+
+Ah, nossignori! — C'è qua il marito!
+
+MAURI
+
+E venga! — Dov'è? — Me la strappi dalle braccia, se è buono!
+
+ROGHI
+
+(_vedendo Fulvia tra le braccia di lui, così abbandonata, che quasi sta
+per cadere_) Ma la adagi almeno qua, per ora, in nome di Dio! (_indica
+il canapè_).
+
+GIUDITTA
+
+(_accorrendo e ajutandolo a sorregger Fulvia_) Qua, venga qua — qua:
+l'ajuto io!
+
+MAURI
+
+(_trasportando Fulvia sul canapè_) Non è niente, vi dico! Ora rinviene!
+
+GIUDITTA
+
+Vado a prendere i sali! (_corre via per l'uscio a sinistra; rientrerà
+poco dopo_).
+
+LA NÀCCHERI
+
+(_al cognato_) Ma che siete voi qua? Siete o no il padrone?
+
+ROGHI
+
+(_a don Camillo_) Questa infine è casa vostra!
+
+MAURI
+
+(_subito rizzandosi con gli occhi spiritati, grida sillabando_)
+Nossignori: — Al-ber-go!
+
+DON CAMILLO
+
+(_investendolo_) Che? dove? quando? Chi gliel'ha detto, albergo? dove
+sta scritto?
+
+MAURI
+
+Sulla porta, giù: — _Pensione Zonchi_!
+
+DON CAMILLO
+
+Sissignore — ma d'estate! — Ora non è stagione, capisce? ed è casa mia
+soltanto; e vi ricevo chi mi pare e piace!
+
+MAURI
+
+(_gridando_) Non strillate così!
+
+DON CAMILLO
+
+(_restando, quasi sbalordito_) Ah senti: strillo io!
+
+MAURI
+
+Tanto è inutile: non me ne vado!
+
+DON CAMILLO
+
+Lei andrà via, andrà via, perchè...
+
+LA NÀCCHERI
+
+(_intromettendosi e terminando la frase_) Questa non è casa vostra!
+
+DON CAMILLO
+
+(_seguitando_) E non ha più nulla a far qui! Inteso?
+
+  Il Mauri, per tutta risposta, poichè Giuditta ritorna coi sali, si
+  china su Fulvia per farglieli odorare.
+
+MAURI
+
+(_a Giuditta_) — Dia qua! dia qua!
+
+DON CAMILLO
+
+(_al Roghi, indicandoglielo_) — Là — vedete come intende lui?
+
+MAURI
+
+(_chino su Fulvia_) Flora mia, son qua io... — Su, via... Sei salva,
+guarita... E io, libero — libero, sai? E ora ti porto via con me!
+
+DON CAMILLO
+
+(_rifacendosi avanti, risoluto_) Ah no, sa! Per questo, può star
+sicuro: — lei non porta via nessuno!
+
+MAURI
+
+Me l'impedirete voi?
+
+ROGHI
+
+(_facendosi avanti anche lui_) Potrei, a un bisogno, impedirglielo
+anch'io!
+
+DON CAMILLO
+
+Ma no: c'è il marito, caro Roghi, che sarà qui a momenti.
+
+MAURI
+
+E io son venuto per parlare con lui!
+
+DON CAMILLO
+
+Vi farà cacciar di nuovo!
+
+MAURI
+
+Vorrò vederlo! — Non s'era mica uccisa per lui, questa donna! — Per
+me, per me s'era uccisa!... E io, per lei — io, Marco Mauri — ho
+abbandonato il mio posto, la mia famiglia, mia moglie, i miei figli!
+(_Guardando tutti in giro; poi rivolto al Roghi_) Veda un po' se è
+possibile, che qualcuno ora mi stacchi da lei!
+
+DON CAMILLO
+
+(_vedendo che Fulvia, sorretta da Giuditta, comincia a riaversi e
+guarda come smarrita_) Ma sarà lei... ecco, ora... sarà lei stessa, la
+signora!
+
+MAURI
+
+(_subito voltandosi e accorrendo a lei_) Tu, Flora? Mi scaccerai anche
+tu?
+
+  Fulvia leva una mano per tenerlo discosto e si volta verso don
+  Camillo, ancora stordita, ma già fosca.
+
+DON CAMILLO
+
+Io la prego di credere, signora, che è entrato a forza, approfittando
+dell'assenza del signor professore!
+
+FULVIA
+
+(_alzandosi_) Che volete ancora da me — voi?
+
+DON CAMILLO
+
+Ecco! Come gli ho detto io!
+
+MAURI
+
+(_quasi trasecolato_) Flora!... Oh Dio... Mi dài del voi?
+
+FULVIA
+
+(_seccata, scrollandosi_) Ma se vi conosco appena!
+
+DON CAMILLO
+
+E voi l'avete ingannata, codesta signora: — Io lo so!
+
+MAURI
+
+(_violentissimo_) Statevi zitto, voi!
+
+DON CAMILLO
+
+Ingannata! ingannata! me l'ha detto lei!
+
+MAURI
+
+(_a Fulvia_) Come! Tu mi conosci appena? Me, Flora? me, che t'ho dato
+tutta la mia vita?
+
+FULVIA
+
+(_con nausea_) Ma finite una buona volta di parlare così!
+
+MAURI
+
+(_c. s. smorendo_) Oh Dio... Come parlo? — Ma tu piuttosto, Flora...
+
+FULVIA
+
+Io non mi chiamo Flora.
+
+MAURI
+
+Fulvia, sì, Fulvia, lo so! Ma se volesti tu stessa, che ti chiamassi
+Flora...
+
+FULVIA
+
+(_con crudezza, sdegnosa_) E volete dire anche come fu, davanti a
+codesti signori?
+
+MAURI
+
+(_ferito_) No! — Io? — Ah! — Ma allora veramente tu mi disprezzi?
+
+FULVIA
+
+(_rimettendosi a sedere, tutta assorta in sè, cupa, mormora, seccata_)
+Non disprezzo nessuno, io.
+
+MAURI
+
+(_insistendo_) — Perchè t'ingannai?
+
+FULVIA
+
+Ma no, vi dico! (_esasperatamente_).
+
+MAURI
+
+(_rivolgendosi a don Camillo_) Me lo rinfacciate? Ma se lo gridai io
+stesso a tutti, qua, che avevo dentro di me lo strazio d'un doppio
+rimorso! Anche davanti a tuo marito lo gridai! — Testimoni tutti qua!
+— Dite, dite se non gli gridai ch'era un impostore!... Impostore, sì,
+impostore! Perchè era «venuto a perdonare»! Lui: a perdonare! Quando
+avrebbe dovuto invece buttarsi in ginocchio, qua, davanti a te, e farsi
+lui perdonare — come me! come me! — qua, così, ecco! (_Le casca davanti
+in ginocchio e grida_) Perchè tutti l'abbiamo ingannata, questa donna!
+
+FULVIA
+
+(_si leva da sedere senza scatto e dice piano, frigidamente, con
+disperata stanchezza_) Dio mio, ancora codesto teatro... Che nausea!
+
+MAURI
+
+(_come se si vedesse con gli occhi di lei; lì in ginocchio, ma tuttavia
+non riuscendo a rialzarsi_) Ah sì! nausea, sì! Hai ragione. Mi vedo;
+me n'accorgo io stesso! (_Si copre la faccia con le mani, e dice
+piangendo_) Ma non sono io; è la mia passione, Flora! Non grido io:
+grida lei! Faccio nausea a me stesso, a sentirmi gridare così: ma
+non posso farne a meno! Non vorrei gridare, e grido! (_Si alza infine
+risolutamente, come se d'improvviso, a forza, si riprendesse_) Sono
+venuto qua però per dimostrarti, che non t'ho mentito, io, sai? La
+verità ti dissi: quella ch'era la verità per me; perchè non ho avuto
+mai nessuno io nella vita, veramente per me; — tranne te, per pochi
+giorni! — Venti — quanti sono stati? — non più di venti, in tutta una
+vita!
+
+FULVIA
+
+Sì, va bene. Venti. Sono finiti. E dunque, basta.
+
+MAURI
+
+No! Come basta? No! — Adesso, Flora? Adesso che è finito invece
+l'inganno?
+
+FULVIA
+
+Ma che inganno? di che inganno mi parlate?
+
+MAURI
+
+Del mio! di quello che ti feci! — È finito! finito! — Mi sono liberato!
+sono libero ora!
+
+FULVIA
+
+(_fissandolo fosca, come se cominci a prestarle attenzione solo ora,
+per qualche idea che già le si matura dentro_) Di che siete libero?
+
+MAURI
+
+Di disporre di me! Ho lasciato tutto! Il posto. Mi son dimesso. E
+mia moglie, sai? lei stessa, mi ha aperto la porta: — «Vattene!» —
+Felicissima.
+
+LA NÀCCHERI
+
+Oh guarda!
+
+MAURI
+
+(_voltandosi a lei, pronto_) Non mi ha mai amato! Non ha mai saputo che
+farsi di me! Vive per conto suo; ricca, con case e poderi. — Solo per
+un malvagio istinto andò a scovar lei (_indica Fulvia_) là, a Perugia —
+e le disse — (_si volta verso Fulvia, che si è di nuovo seduta, ma come
+assente, ancora assorta in sè_) che ti disse? che ti disse? — Io ancora
+non lo so! (_E poichè Fulvia non risponde seguita rivolto agli altri_)
+Forse lei, capite? lusingandosi di ridar la pace a una famiglia,
+se ne venne qua per levarsi di mezzo. (_Riaccostandosi a Fulvia,
+allegro, e lanciandosi a dire una cosa, che a un certo punto non gli
+par più facile a dire; tuttavia la dice, facendosi coraggio, con una
+sfrontatezza, che un po' fa pena, un po' fa ridere_) Ma ora l'inganno è
+finito! Figurati che... ma sì, non ho vergogna a dirlo... — lei stessa,
+con le sue mani, mi... mi diede.... sì, un po' di denaro, per farmene
+andar via.
+
+FULVIA
+
+(_levando il capo, subito, per impedire che altri ne faccia le
+meraviglie_) E poi?
+
+MAURI
+
+(_stordito dalla domanda inopinata_) E poi? Che vuoi dire?
+
+FULVIA
+
+Che farete poi?
+
+MAURI
+
+Che farò? — Oh! — Che farò poi? — Ma se ho te, ho tutto! Farò di tutto!
+Mi metterò a dar concerti... Posso — non nelle grandi città, s'intende.
+
+FULVIA
+
+(_freddamente e stranamente, alzandosi_) Mi farete il piacere di dire a
+lui tutto questo, appena sarà di ritorno.
+
+MAURI
+
+(_con gioja impetuosa, mentre gli altri restano come basiti_) Io? a
+lui? Sì? Vuoi che gli dica questo?
+
+FULVIA
+
+(_per troncare, più che mai fredda, rivolgendosi a don Camillo_)
+Dovrebbe già esser qui...
+
+DON CAMILLO
+
+Già... io non so... questo ritardo...
+
+MAURI
+
+E allegramente, sai? allegramente glielo dirò... Eh, ora che tu... Sono
+felice!
+
+FULVIA
+
+(_infastidita_) Vi prego... vi prego...
+
+MAURI
+
+Ma non sono stato mai io, Flora! Tu, invece — devi convenirne: sei
+stata tu a voler prender la cosa così sul serio! Fare quello che hai
+fatto, scusa!... Ma sì, via! — Per quel vecchio cammello là!
+
+ROGHI
+
+(_non potendo tenersi dal ridere_) Ah senti!
+
+LA NÀCCHERI
+
+(_contemporaneamente, gargarizzando_) Ah! ah! ah! ah! La moglie?
+cammello?
+
+DON CAMILLO
+
+(_contemporaneamente anche lui_) Ma non ve lo dico, che è matto?
+
+MAURI
+
+(_con perfetta serietà_) Un vecchio cammello, vi assicuro, signori. —
+Nove anni più di me. — Zotica! Contadina... Lei l'ha veduta! (_indica
+Flora_) — La sposai perchè aveva un pianoforte.
+
+LA NÀCCHERI
+
+(_c. s. più forte, irrefrenabilmente_) Ah! ah! ah! ah!
+
+  Il riso si comunica per contagio al Roghi e a Giuditta.
+
+MAURI
+
+(_c. s. irritato un po'_) — Scusi, signora, se le dico che in questo,
+veramente, non c'è niente da ridere.
+
+ROGHI
+
+(_ridendo ancora_) Ma come no, abbiate pazienza!
+
+MAURI
+
+Perchè non capite che cosa voglia dire capitare a venticinque anni,
+pieno di sogni in un paesucolo più piccolo, più brutto — scusate — di
+questo vostro, e marcirvi quattro, cinque, dieci eterni anni, pretore!
+
+ROGHI
+
+(_a don Camillo_) Ah, ecco dunque, è giudice davvero!
+
+DON CAMILLO
+
+(_con forza convinta_) È matto!
+
+MAURI
+
+(_subito, serio_) Mi sono dimesso. — Una vita che non si può figurare!
+come nessuno di voi, che vi marcite dentro qua, può conoscere! —
+Neanche tu, sai, Flora; che pure hai conosciuti tutti gli orrori della
+vita! Ma, Dio mio, sono orrori almeno! — Non una vita fatta di niente.
+— Niente! — Ombra. — Silenzio d'un tempo che non passa mai. — Neanche
+acqua da bere. — Acqua di cisterna, amara, renosiccia... — Ma non
+sarebbe nulla! È quel silenzio! quel silenzio! Figuratevi che vi si
+sente anche un soffio di vento, quando scuote la fune della cisterna
+giù in piazza, e la carrucola che ne stride; mentre voi, dentro... —
+Ah! Un piano di vecchio tavolino, unto, polveroso, ingombro di carte
+giudiziarie — e una mosca che vi scorre a tratti, sopra. E tutta la
+vita lì, in quella mosca che voi state a guardare per ore e ore. —
+Ebbene, immaginate di sentire un giorno, in quel silenzio, il suono
+d'un pianoforte: l'unico del paese. Vi corsi incontro come un assetato!
+E sissignori, sposai quella donna più vecchia di me, che mi parve
+bellissima e intelligentissima, solo perchè aveva quel pianoforte.
+— Perchè musica, musica io ho studiato, capite? non ho mai studiato
+legge io. — Sono un musicista, io! — E quella — dacchè la sposai — m'ha
+chiamato sempre pretore. Sì, sì, e anche i figli! — Quattro — cresciuti
+con lei in campagna — a-nal-fa-be-ti. — Anch'essi, anch'essi — non mi
+chiamano mica papà! _pretore_ mi chiamano! anzi: — _Preto'!_, come la
+madre. — _È in casa il Preto'?_ — _No, è alla pretura, il Preto'!_
+
+  Scoppiano a ridere tutti, tranne Fulvia.
+
+ROGHI
+
+(_tra le risa_) Oh bella! oh bella!
+
+MAURI
+
+Ridete, sì, ridete! Voglio riderne anch'io, ora! — Me ne sono liberato,
+vivaddio! — D'amore e d'accordo — sì! Con qualche carezza, anche. — E
+l'avrei strozzata, v'assicuro!
+
+DON CAMILLO
+
+(_vedendo apparire dalla porticina dell'orto, in fondo, Silvio Gelli,
+che viene avanti tra quelle risa, costernato_) Oh, Dio sia lodato, ecco
+qua finalmente il signor professore!
+
+  Alto di statura, SILVIO GELLI, di circa cinquant'anni, ossuto,
+  poderoso, porta occhiali a staffa, cerchiati d'oro. Non ha barba
+  nè baffi. Quasi calva la sommità del capo; ma lunghe ciocche di
+  capelli biondastri, scoloriti, gli scendono scompostamente su la
+  fronte e su le tempie. Egli se le rialza di tanto in tanto, e si
+  tiene allora, per un tratto, le mani sul capo, come per un gesto
+  di meditazione, che gli è abituale. Ha l'aria tra stordita e
+  aggrondata d'un uomo che attraversi una grave crisi di coscienza.
+  Ma vuol dissimularla. Per cui, spesso, resta quasi ottusamente
+  inerte, con un sorriso freddo e vano, rassegato sulle labbra:
+  espressione involontaria d'un che di beffardo, che è nella sua
+  natura, e che quasi affiora a sua insaputa da antiche, maligne
+  passioni, non ancora spente in lui, sebbene già da un pezzo domate.
+  A urtarlo un po' in queste pause di ottusa inerzia, che sono in
+  lui come ambigui arresti di difesa morale, egli s'intorbida: quel
+  sorriso vano gli si scompone in una contratta smorfia di dolore,
+  come se gli bisognasse che il dolore gli diventasse anche fisico,
+  per poterlo sentire. Da queste contrazioni la sua fisonomia
+  riassomma poi ricomposta, o meglio, quasi impostata in una grave e
+  stanca aria di probità, che vorrebbe apparire da gran tempo serena,
+  come lontanissima ormai da quelle passioni che pure or ora, in
+  tempestoso fermento, lo hanno travagliato.
+
+  Al suo entrare Fulvia si rizza in piedi felinamente, con lo stesso
+  animo che, tredici anni addietro, la condusse alla perdizione. Ê
+  per lei, questo, il momento d'una prova suprema. E in tutto il suo
+  aspetto sarà dunque la risoluzione ferma d'affrontar questa prova,
+  già meditata e preparata oscuramente nella scena antecedente, a
+  costo di qualunque crudezza, mettendo a nudo come un vivo lacerto
+  la sua coscienza e quella di lui, con la più brutale sincerità,
+  avvalendosi anche della presenza di quel suo pazzo amante.
+
+SILVIO
+
+(_notando la presenza del Mauri, ìlare tra la ilarità degli altri, e
+l'aria di sfida della moglie_) Ah, di nuovo qua?
+
+MAURI
+
+(_irrompente_) — Sissignore. E son venuto per...
+
+FULVIA
+
+(_pronta, troncando, imperiosa_) Lasciate parlar me! (_Al marito,
+recisamente_) Qua di nuovo, sì. — Prega tutti questi signori di
+lasciarci soli.
+
+DON CAMILLO
+
+Oh, subito, signora. Soltanto tengo a dichiarare al signor professore...
+
+FULVIA
+
+(_interrompendo di nuovo, per troncare_) Che questo signore è entrato a
+forza. — Va bene!
+
+MAURI
+
+(_a don Camillo, accennando a Fulvia_) Ma se siamo già d'accordo!
+
+LA NÀCCHERI
+
+(_al cognato_) Se son d'accordo! Che storie!
+
+SILVIO
+
+(_a Fulvia_) L'hai forse chiamato tu?
+
+FULVIA
+
+Non l'ho chiamato io. — Dobbiamo parlar di questo.
+
+SILVIO
+
+Sento che c'è un accordo...
+
+FULVIA
+
+Nessun accordo. Non è vero!
+
+MAURI
+
+Io son venuto da me.
+
+FULVIA
+
+(_c. s._) Aspettate a parlare!
+
+DON CAMILLO
+
+E su, su, andiamo noi, andiamo via! (_invitando col gesto a uscire il
+Roghi, Giuditta, e la Nàccheri_).
+
+LA NÀCCHERI
+
+(_rivoltandoglisi_) Ecco, ecco... Ma diciamo anche noi, a nostra volta,
+al signore e alla signora, che noi qua...
+
+DON CAMILLO
+
+(_sulle spine_) Ma no, via, Marianna, che dite?
+
+LA NÀCCHERI
+
+Dico che siamo alla fine d'aprile, ohè! e che col maggio, voi sapete
+bene, cominciano a venire i forestieri per la cura delle acque.
+
+SILVIO
+
+Conto, per me, di ripartire prestissimo, signora.
+
+LA NÀCCHERI
+
+La prescriverà, m'immagino, anche lei ai suoi ammalati, signor
+professore! Ora, noi, qua, dobbiamo ancora rimettere in ordine la
+pensione, ecco!
+
+DON CAMILLO
+
+Ma non vorrei che il signor professore credesse...
+
+SILVIO
+
+Lei sa bene che ho ragioni impellenti d'andar via al più presto.
+
+ROGHI
+
+Ma se non dovesse oggi, signor professore — ecco, io vorrei...
+
+SILVIO
+
+(_accennando alla moglie_) Vi prego...
+
+ROGHI
+
+Sì, sì, attenda, attenda con comodo, signor professore! Io posso
+aspettare... aspetterò, ritornerò...
+
+DON CAMILLO
+
+Ritiriamoci, ritiriamoci adesso...
+
+  Spinge fuori il Roghi, la Nàccheri, Giuditta ed esce per ultimo,
+  inchinandosi e richiudendo l'uscio a vetri.
+
+FULVIA
+
+(_subito, nervosamente_) Ecco, Silvio. Questo signore, che conosco
+appena...
+
+MAURI
+
+(_ferito, protestando_) Ma no, Flora!
+
+FULVIA
+
+Vi ho detto di lasciare parlar me!
+
+MAURI
+
+Ma se gli dici così, scusa!
+
+FULVIA
+
+Che volete che significhi, per una come me, conoscere uno da poco o da
+molto? (_Voltandosi verso il marito_) «Flora» hai sentito? — Mi chiama
+Flora!
+
+MAURI
+
+(_in tono di rimprovero_) Fulvia!
+
+FULVIA
+
+(_precipitosamente_) No, no, Flora, Flora — sono Flora. — (_Di nuovo al
+marito_) Mi si chiama subito per nome, e mi si dà del tu.
+
+SILVIO
+
+A me premerebbe ora di sapere, come e perchè — dopo quanto è avvenuto —
+si trovi qua di nuovo codesto signore.
+
+FULVIA
+
+Ecco, sì. — Questo signore, Silvio, crede sinceramente ch'io abbia
+voluto uccidermi per lui. E non è vero!
+
+MAURI
+
+Ah, non è vero?
+
+FULVIA
+
+Non è vero. L'ho fatto per me. Ditegli come e dove m'avete conosciuta.
+Basterà per farglielo comprendere.
+
+SILVIO
+
+Ma io non voglio saperlo!
+
+FULVIA
+
+Ero arrestata.
+
+MAURI
+
+(_subito protestando_) No! Che arrestata! Che dici!
+
+FULVIA
+
+Con un mandato di comparizione, sì. Complicata in un volgarissimo
+delitto.
+
+MAURI
+
+(_c. s._) Ma che! Non creda! Prosciolta in Camera di Consiglio!
+
+SILVIO
+
+Vi dico che non voglio saperlo!
+
+MAURI
+
+(_seguitando con foga_) Venuta soltanto per deporre. Lo so io! Fu a
+Perugia, guardi, un mese appena dopo il mio trasferimento colà. C'era
+io nella sala del giudice istruttore, mio collega. Fu nel processo per
+l'assassinio d'un tal Gamba.
+
+FULVIA
+
+Con cui ero andata a Perugia.
+
+MAURI
+
+Sì, un pittore...
+
+FULVIA
+
+Ma che pittore! Un miserabile applicatore mosaicista della fabbrica di
+Murano.
+
+MAURI
+
+Già... venuto per restaurare non so che mosaico...
+
+FULVIA
+
+Un mascalzone che s'ubriacava tutti i giorni.
+
+MAURI
+
+E la picchiava! la picchiava!
+
+FULVIA
+
+Fu trovato morto, una notte, sulla strada, con la testa spaccata.
+
+  Silvio Gelli si rialza i capelli sul capo e vi trattiene le mani.
+
+MAURI
+
+(_scattando al gesto di Silvio Gelli_) Orrore, eh? «_Fin dov'era
+caduta!_» eh? — Ma mi faccia il piacere! lasci andare!
+
+FULVIA
+
+(_subito, forte_) Non declamate, al vostro solito!
+
+MAURI
+
+(_senza darle retta, seguitando, ma in tono più basso, rivolto a
+Silvio_) Lei m'insegna che tutto sta nel togliersi d'addosso, una prima
+volta, sotto gli occhi di tutti, l'abito, che ci ha imposto la società.
+Si provi, lei che sorride...
+
+SILVIO
+
+Ma io non sorrido.
+
+MAURI
+
+Ha sorriso! — Si provi, si provi a rubare una volta cinque lire e
+faccia che venga scoperto nell'atto di rubare. Me ne saprà dire qualche
+cosa! — Ma lei non ruba... Grazie! — E questa disgraziata avrebbe fatto
+quello che fece, se lei, suo marito...
+
+FULVIA
+
+(_troncando, fierissima_) Basta! Vi proibisco di seguitare!
+
+SILVIO
+
+(_piano, calmo_) Io sono venuto qua...
+
+MAURI
+
+Per perdonare, lo sappiamo!
+
+SILVIO
+
+(_pronto, fermo, grave_) No! — Per riconoscere il danno degli antichi
+miei torti verso questa donna. Non m'aspettavo però che altri qua,
+oltre lei, potesse arrogarsi di rinfacciarmeli.
+
+MAURI
+
+(_subito, a sfida_) E riparare?
+
+FULVIA
+
+(_c. s._) Aspettate! Non sapete ciò che vi dite!
+
+MAURI
+
+No, io dico _riparare_, Flora! E lo dico davanti a lui! Perchè ho
+anch'io il mio torto verso di te. Tu mi hai perdonato, ma io sono qua
+per riparare, per riparare!
+
+FULVIA
+
+(_col piglio di chi non vuol discutere_) Dunque — sta bene — ecco — io
+ti volevo dir questo, Silvio: — che egli è pronto...
+
+MAURI
+
+(_insistendo, pigiando, sfidando_) A riparare, sì, a riparare!
+
+FULVIA
+
+(_esasperatamente, sdegnata, gridando_) Ma non dite a riparare — fate
+ridere — se io non vi riconosco il torto, di cui volete accusarvi! —
+Oh quest'è bella! — Avete mentito con me — come tanti... Che volete che
+me n'importi? (_Rivolgendosi di scatto al marito_) Senti forse anche tu
+qualche dovere verso me per avermi salvata? — No, niente, caro! Grazie!
+
+SILVIO
+
+(_stordito_) Come! Io...
+
+FULVIA
+
+(_subito incalzando, ma col tono di chi vuol ragionare_) Sei forse
+venuto qua come medico, per operarmi?
+
+SILVIO
+
+No.
+
+FULVIA
+
+(_c. s._) Ma anche operandomi — (cosa che nessuno però ti chiese di
+fare).
+
+MAURI
+
+Io m'opposi! io m'opposi!
+
+FULVIA
+
+(_c. s. senza badare al Mauri_) Io, per me certo, non te lo chiesi — è
+vero?
+
+SILVIO
+
+(_impacciato, come sopraffatto, non sapendo a che cosa tenda
+quell'interrogatorio_) No... — io lo feci...
+
+FULVIA
+
+(_subito, venendogli in a ajuto, con uno strano lustro negli occhi_)
+Quasi irresistibilmente, è vero?
+
+SILVIO
+
+Vendendoti in quello stato...
+
+FULVIA
+
+E dunque! — Ero come morta. Fu un miracolo anche per te! — Se sapessi
+come credo adesso ai miracoli!
+
+SILVIO
+
+Che vuoi, insomma, concludere?
+
+FULVIA
+
+Niente. Questo. Che non devi credere neanche tu d'aver adesso verso di
+me qualche dovere per avermi così... diciamo «restituito alla vita». —
+Nessun dovere, nessun dovere. Non ne accetto! — Nè da te, nè da altri.
+Nè doveri, nè riparazioni.
+
+SILVIO
+
+E che intendi di fare allora?
+
+MAURI
+
+Se ne viene con me!
+
+FULVIA
+
+Sono qua. Vedete voi... Giacchè mi trovo tra un dovere che riconosco
+insussistente, e un rimorso che dichiaro immaginario...
+
+SILVIO
+
+Tu sei sempre la stessa!
+
+FULVIA
+
+Ah, questo sì, vedi? questo sì, mi fa veramente piacere! Che i miei
+capelli tinti, questa mia faccia d'ora, non ti impediscano di vedermi
+ancora, di fronte a te, quella di prima!
+
+SILVIO
+
+Ma ti vedo adesso, così — in questo momento! Non ti ho veduta così in
+tutti questi giorni!
+
+MAURI
+
+Ci sono io, ora, qua!
+
+FULVIA
+
+(_subito, voltandosi a lui_) Voi non ci siete per nulla! Vi ho detto di
+non parlare! (_Rivolgendosi di nuovo al marito_) Mi hai veduta come un
+tempo? Perciò sei stato tutto... non so, come sospeso...
+
+SILVIO
+
+Io?
+
+FULVIA
+
+Sì, turbato, incerto... pentito dentro di te — ne sono sicura!
+
+SILVIO
+
+No, di che?
+
+FULVIA
+
+Ma d'aver fatto qua, inconsultamente, più di quanto t'eri proposto!
+
+SILVIO
+
+No! non è vero! — Non per questo!
+
+FULVIA
+
+Ma sul serio ti credi molto cambiato tu?
+
+SILVIO
+
+Potresti giudicarne dal fatto che mi trovo qua.
+
+FULVIA
+
+Ah, ma non t'aspettavi questo, venendo qua!
+
+SILVIO
+
+No — ah, questo no! questo no davvero! — Non sarei venuto!
+
+FULVIA
+
+(_pronta, con disprezzo_) E dunque puoi andartene!
+
+SILVIO
+
+(_contenendosi_) Io dico, che tu debba tenermi qua, ora, così,
+(_accenna al Mauri_).
+
+MAURI
+
+Ma so tutto io, sa! Di lei — so tutto!
+
+SILVIO
+
+Che sapete? Ciò che vi avrà detto lei, saprete! Dei miei torti. Non di
+ciò che ho sofferto per essi.
+
+FULVIA
+
+Molto hai sofferto?
+
+SILVIO
+
+Molto — se mi ha condotto qua. Non m'obbligherai a dirlo davanti a un
+estraneo.
+
+FULVIA
+
+Ah no, caro, fuori! fuori! — Perchè questo estraneo, caro, è qua, — non
+tanto per me — quanto per te.
+
+MAURI
+
+E io non sono un estraneo per lei! (_indica Fulvia_).
+
+SILVIO
+
+(_rispondendo a Fulvia_) — Per me? Che vuol dire?
+
+FULVIA
+
+Oh! d'un gran professore come sei ora, non s'immagina certo! Quasi ho
+soggezione io stessa, a dirlo. Ma se sono qua — e così — con questo
+accanto, o con un altro — via, tu sai bene che è per te — per te,
+com'eri prima! — Che vuoi? posso ricordarmi soltanto d'allora, io! Di
+quando giocavi con me, che avevo appena diciott'anni, come un gatto
+col topolino — per il gusto di vedere dove sarei arrivata. — Ecco qua,
+dove sono arrivata. — E tu hai molto sofferto! — Sarei curiosa di saper
+come.
+
+SILVIO
+
+Te l'ho detto, come.
+
+FULVIA
+
+No: scusa: m'hai detto anzi, che non ti riesce di soffrire.
+
+SILVIO
+
+Che non sento — t'ho detto, — di toccare la mia sofferenza: in me, in
+te... Questo t'ho detto!
+
+FULVIA
+
+Ah già! Il vuoto, sì.
+
+SILVIO
+
+Tu non puoi comprendere. E certe cose non si spiegano.
+
+FULVIA
+
+Non avevi nessuno con te? (_allude, con questo, alla figlia, e
+s'infosca più che mai_).
+
+SILVIO
+
+Mi vedevo inetto...
+
+FULVIA
+
+Indegno, no?
+
+SILVIO
+
+Anche indegno. Perchè ho riconosciuto, che tu eri andata via per causa
+mia. E perciò appunto non m'è riuscito mai di colmarlo, questo vuoto.
+
+FULVIA
+
+(_con sprezzo_) Ma dunque dici che hai sofferto per me!
+
+SILVIO
+
+No. Non come tu credi. Neanche in questo momento. No! Per la vita, che
+è così...
+
+MAURI
+
+Ah, questo è vero! Ha ragione! Anch'io, sa!
+
+SILVIO
+
+(_senza badargli_) Tu qua t'uccidi... un altro là impazzisce... chi
+crede di ragionare, e non conclude nulla...
+
+MAURI
+
+(_quasi tra sè_) La vita è brutale! Se lo so!
+
+SILVIO
+
+(_c. s._) Vengo qua, dico: «Muore; vuol andarsene in pace; va', va'
+accorri...» — E il mio sentimento s'infrange qua contro una realtà che
+non potevo immaginare.
+
+FULVIA
+
+Che vuoi fare ora?
+
+SILVIO
+
+M'hai aggredito, appena entrato — con codesto signore. Non vuoi doveri,
+non vuoi riparazioni. — Non so... Ti vedo decisa — non so a che cosa...
+
+FULVIA
+
+(_con voce improvvisa, come per una subitanea scoperta_) Tu non sai,
+caro mio, quanta malizia hai ancora nello sguardo, quando — senza
+volerlo — guardi di sottecchi.
+
+SILVIO
+
+(_stordito_) Io?
+
+FULVIA
+
+Tu, tu, sì.
+
+SILVIO
+
+Malizia?
+
+FULVIA
+
+Malizia, malizia. Me ne sono accorta così bene! ora, sì — or ora — come
+ti sei voltato a guardare così (_imita il modo_).
+
+SILVIO
+
+Fastidio, forse — o stanchezza.
+
+FULVIA
+
+No. Malizia, malizia. Quella di prima! Devi darti per forza, anche
+adesso, un'aria di fronte a me. Questa, o un'altra. — Tutti gli uomini
+ve la date! Ma dimenticate come le donne vi hanno veduto, quando non
+ve la date più, in certi momenti. Mi spiego? E perciò le donne ridono
+sotto il naso, poi, nel veder le arie degli uomini. — O ne provano
+dispetto o disgusto. — Ma questo ora non importa.
+
+SILVIO
+
+Tieni a liberarmi d'ogni dovere, per mettere a prova davvero, se sono o
+non sono cambiato?
+
+FULVIA
+
+No no — non per questo! Ma ecco — vedi la tua malizia?
+
+SILVIO
+
+No, Fulvia — credi! È soltanto perchè una prova su questo non potrei
+dartela!
+
+FULVIA
+
+E io non la voglio! — Non capisci che non voglio da te nessun obbligo
+_d'ora_? Io sono ora... quella che sono. Non voglio approfittarmi della
+tua venuta, vincolandoti per la vita che m'hai ridata. Di questa mia
+vita d'ora, di quel che sono ora, di tutto ciò che può accadermi ora,
+non m'importa più nulla — proprio nulla! E tu saresti uno sciocco, se
+te ne facessi qualche scrupolo. Sei accorso qua, perchè credesti che
+non potessi sopravvivere. Peggio per me, se non sono morta!
+
+MAURI
+
+(_con forza_) Ma ci sono qua io, Flora!
+
+FULVIA
+
+(_subito con leggerezza sprezzante, mostrandolo al marito_) Ecco —
+vedi? — c'è lui. — Volevo dirti questo!
+
+MAURI
+
+(_c. s._) Io: io — tutto per te!
+
+FULVIA
+
+(_quasi atterrita_) Per carità, non parlate d'amore! — (_Al marito_)
+Disposto, pronto a riprendermi con sè.
+
+MAURI
+
+Con me! Per sempre!
+
+FULVIA
+
+Bravo, caro! Come dicono i fidanzati.
+
+MAURI
+
+(_con forza_) No! — Come posso dirtelo soltanto io!
+
+FULVIA
+
+(_spiegando, come sopra al marito_) Ha lasciato per me moglie e
+figliuoli. — Anche il posto, non è vero?
+
+MAURI
+
+Tutto!
+
+FULVIA
+
+E m'offrirà una bellissima posizione! — Darà concerti in provincia!
+Peccato che la voce, con questa mia vitaccia, mi si sia arrochita! Ci
+metteremmo insieme: lui sonerebbe e io canterei! (_scoppia a ridere
+stridulamente_).
+
+MAURI
+
+(_ferito_) Tu dunque ridi di me?
+
+FULVIA
+
+(_subito_) No, no: credo, credo nella vostra bravura di pianista.
+
+SILVIO
+
+(_sdegnato_) Tutto questo, via, non è serio!
+
+FULVIA
+
+E ti fa molta impressione? — A me, nessuna. — Vi prego, insomma, di
+non darvi pensiero di me, nessuno dei due. Quante volte devo dirlo?
+— Stabiliamo così alla buona. — Ho vissuto per anni, caro mio, giorno
+per giorno. Mi sono mancate le cose più necessarie; e il domani senza
+certezza non mi spaventa più. Può passarsi, il destino, tutti i suoi
+capricci, con me. — Son cosa sua (_S'accosta al marito e lo guarda
+con uno strano, orribile ammiccamento di donna perduta_). — Anche quei
+tuoi, sai?
+
+SILVIO
+
+(_smorendo_) Che, miei?
+
+FULVIA
+
+(_ridendo, ma con un misto di pianto, in una convulsione che diverrà
+man mano più forte, quanto più, per vincerla, ella si strazierà,
+dicendo di sè le cose più crude_) Mah! quelli che ti passasti,
+quand'ero come una bambina, e m'insegnavi cose che mi parevano
+orribili!
+
+SILVIO
+
+(_per richiamarla a sè_) Fulvia!
+
+FULVIA
+
+Mi sono divenuti familiari.
+
+SILVIO
+
+(_c. s._) Fulvia! Fulvia!
+
+FULVIA
+
+Oh, sai, famosa!
+
+SILVIO
+
+Tu hai la voluttà di dilaniarti!
+
+FULVIA
+
+Con le tue mani, sì. — Le ho fatte sapere anche a lui, sai? Perciò
+egli spasima così di me! (_Subito — staccando — al colmo dell'orgasmo
+— grida tre volte_) Che schifo! Che schifo! Che schifo! (_Segue come
+un nitrito, e in un brivido lungo di ribrezzo, restringendosi tutta in
+sè con le mani afferrate ai capelli e il volto nascosto dalle braccia
+aggiunge_) Ah Dio, che schifo!
+
+  Subito, Silvio e Mauri le si fanno accosto, premurosi e sconvolti,
+  e mentre l'orgasmo di lei par che si scarichi in un tremore
+  convulso, di freddo, le parlano insieme concitatamente.
+
+SILVIO
+
+Non è possibile seguitare così!
+
+MAURI
+
+(_supplice_) Ma come, Flora! Se ti ho tenuta come una santa! come una
+santa!
+
+FULVIA
+
+(_all'improvviso, rizzandosi ancora convulsa, ma di nuovo risoluta,
+e ponendo le mani sulle spalle del Mauri_) Sì, è vero, sì! — Voi, sì!
+(_subito correggendosi, spiccatamente_) Tu, sì! — Ma fammi il piacere:
+— zitto!
+
+MAURI
+
+(_felice, provandosi a prenderle una mano per baciargliela_) Oh Flora!
+Grazie!
+
+FULVIA
+
+(_ritraendo subito la mano, con ribrezzo_) No... no... no...
+
+MAURI
+
+Mi basterà che tu abbia così... pena... pena soltanto... codesta pena
+che hai, del mio amore, e niente più — niente! — È così dolce, che mi
+basterà.
+
+FULVIA
+
+(_in fretta_) Sì, va bene. (_Poi, rivolgendosi al marito_) Dunque,
+sarà così, — Vado con lui. — Puoi ripartirtene, caro, con la coscienza
+tranquilla d'aver compiuto una buona azione.
+
+SILVIO
+
+(_la guarda con occhi pieni d'una sofferenza atroce, poi contenendosi
+a stento, dice gravemente_) Io ti prego, Fulvia, di levarmi da questa
+situazione.
+
+FULVIA
+
+Ti dico sinceramente. Che tu sii venuto, — è una buona azione.
+Dell'altra che hai compiuto, quasi senza volerlo, e che non era certo
+nella tua intenzione, venendo — se si riduce per me a un cattivo
+servizio — in coscienza ti dico che non posso nè voglio fartene
+responsabile — dunque puoi proprio ripartirtene in pace con te stesso.
+— O al più, guarda — se proprio lo vuoi — (non ho più nulla del mio!) —
+vedi? e sono una donna veramente volgare — puoi darmi un po' di denaro
+— come a lui l'ha dato sua moglie! (_scoppia a ridere indicando il
+Mauri_).
+
+MAURI
+
+(_scattando_) No! — niente danaro! no! Non accettar danaro da lui,
+Flora!
+
+FULVIA
+
+Stupido! Non capisci che non è per noi? Dico per lui! Quanto più ne dà,
+per lui, meglio è. — Si vede così chiaro che (_pigiando con intenzione
+le parole_) — _non ostante ch'io faccia di tutto_ — gli persiste un
+certo rimorso. — Gli propongo, di liquidarlo in contanti.
+
+SILVIO
+
+(_non potendone più, con estrema risolutezza_) Basta così, Fulvia! — Io
+debbo parlarti!
+
+FULVIA
+
+(_con furore appena contenuto e aria di minaccia_) Ah, no, sai! Non
+arrischiarti ora a parlarmi di ciò che ti leggo negli occhi!
+
+MAURI
+
+(_tra sè, sogghignando_) Della figlia!... della figlia!
+
+SILVIO
+
+Debbo pure parlartene!
+
+FULVIA
+
+Guai a te, se lo fai! Ma non vedi che sto qui da un'ora a imbrattarmi
+di fango per impedirti di parlarne?
+
+SILVIO
+
+Non vuoi dunque che te ne parli?
+
+FULVIA
+
+No!
+
+SILVIO
+
+Mi provochi!
+
+FULVIA
+
+Se hai sfuggito di parlarne anche poc'anzi!
+
+SILVIO
+
+Te ne parlo adesso!
+
+FULVIA
+
+Ti sfido a farlo; con me così (_passa un braccio sul collo di Mauri_)
+decisa ad andarmene con lui!
+
+SILVIO
+
+Sta bene. — Vado... Ma bada che veramente tu perdi ora ogni diritto
+d'accusarmi!
+
+FULVIA
+
+Io? (_Rivolgendosi al Mauri_) L'ho accusato? (_A lui_) T'ho lodato;
+ringraziato; t'ho detto d'andartene via tranquillo. — Sei tu, là,
+impedito. Insisti tu! Vuoi parlare, per cercarti scuse, ch'io non ti
+chiedo.
+
+MAURI
+
+(_c. s._) Eh — lo specchio! lo specchio!
+
+SILVIO
+
+(_provocante_) Che dite voi, specchio?
+
+MAURI
+
+(_placido, quasi sorridente_) Quello, caro signore, che ci mettiamo noi
+stessi davanti, senza saperlo. Ce lo troviamo davanti; ci pare che ci
+parli un altro, e siamo noi stessi. — Io lo so bene.
+
+SILVIO
+
+Lo saprete per voi!
+
+MAURI
+
+Anche per lei, anche per lei!
+
+SILVIO
+
+(_a Fulvia_) Perchè mi butti in faccia un rimorso, ch'io stesso t'ho
+dichiarato e provato?
+
+FULVIA
+
+No, scusa: voglio levartelo!
+
+SILVIO
+
+Come? così? «imbrattandoti di fango» per accrescermelo?
+
+FULVIA
+
+(_con voce nuova, di disperata sincerità, quasi avvilita, come se fosse
+arrivata al punto di non poter più sostenere la sua parte_) Ah Dio,
+sono stata qua tanti giorni con lui — e lui stesso ha detto come —
+quella di prima — con tutto il cuore sospeso — il mio cuore d'un tempo
+— là, nella mia casa — il mio cuore di madre — tutti questi giorni
+in attesa che mi parlasse della figlia — dicendo a me stessa: «stai
+così... stai così... egli ora è buono!... è venuto... ora te ne parla,
+ora te ne parla...».
+
+SILVIO
+
+(_forte, vibratamente, per rompere la commozione di lei_) Ma se non
+potevo parlartene!
+
+FULVIA
+
+(_subito, violenta, cangiando tono anche lei_) E perchè vuoi parlarmene
+adesso?
+
+SILVIO
+
+Ma per dirti appunto perchè non te n'ho parlato!
+
+FULVIA
+
+Ora non voglio più saperlo! — Sono ragioni per te!
+
+SILVIO
+
+No, non per me! Per tua figlia!
+
+FULVIA
+
+Ragioni di non parlarmene? Anche per lei?
+
+SILVIO
+
+Unicamente per lei!
+
+FULVIA
+
+Perchè mi crede morta, è vero? — Eh, si sa! — Storia vecchia! — Chi
+gliel'ha detto? gliel'hai detto tu, che sono morta?
+
+SILVIO
+
+Non gliel'ho detto io...
+
+FULVIA
+
+L'ha creduto da sè, e tu gliel'hai lasciato credere? — E va bene.
+Basta. Lo supponevo. — Vuoi dire che il miracolo di farmi rivivere
+anche per lei, non puoi farlo?
+
+SILVIO
+
+No, dimmi tu, se lo credi, se lo vedi possibile! — Non faccio altro che
+pensare a questo da un mese. Subito, dacchè vidi la possibilità che tu
+guarissi. — Tu hai atteso che te ne parlassi. Ma non te n'ho parlato
+per questo! — Come si può fare? — Dimmi tu! — Rispunti a casa, ora,
+così?
+
+FULVIA
+
+(_con orrore_) No, no!
+
+SILVIO
+
+(_seguitando_) Dove sei stata tutto questo tempo? E perchè le si è
+lasciato credere che tu fossi morta, senz'esser vero?
+
+FULVIA
+
+Non è possibile — no!
+
+SILVIO
+
+Ecco — lo vedi tu stessa!
+
+FULVIA
+
+E credi che me n'importi? — Se fossi morta davvero... Ma non sono!
+Non lo dico per me, bada! Tu non sai ancora, caro mio, tutto intero
+il miracolo che hai operato! — Non me lo sarei mai atteso! — Stato di
+grazia! — Tornata per un momento come allora... Caro mio, se non puoi
+farmi rivivere per tua figlia, può lei ora, invece, rivivere per me!
+
+SILVIO
+
+(_stordito, costernato_) Che dici? per te? E come?
+
+FULVIA
+
+Lei — o un'altra — se l'ho già in me, per me è la stessa!
+
+SILVIO
+
+Fulvia, che dici?
+
+MAURI
+
+Come! — Tu dunque...?
+
+FULVIA
+
+E perchè sono così spensierata? — Per questo! — Non vedi che non
+m'importa più di niente?
+
+MAURI
+
+Ti sei lasciata riprendere da lui?
+
+SILVIO
+
+(_levandosi ormai d'ogni ambascia, d'ogni dubbio, con animo
+fermissimamente risoluto_) Ah — se è così — senz'altro, allora!
+
+FULVIA
+
+Che cosa?
+
+MAURI
+
+(_quasi tra sè_) Ma questo è un tradimento!
+
+SILVIO
+
+Avevo già pensato — prima che tu dicessi questo — che c'era forse un
+mezzo — uno solo — per riparare!
+
+FULVIA
+
+Che mezzo? Se mi hai uccisa per lei!
+
+SILVIO
+
+No — c'è! c'è! — E ora, senz'altro, bisogna che tu lo accetti, per
+quanto possa esser duro per te e per me.
+
+FULVIA
+
+E sarebbe?
+
+SILVIO
+
+Verrai con me!
+
+MAURI
+
+No, Flora! Non farlo! non farlo!
+
+SILVIO
+
+Lei ora lo farà!
+
+FULVIA
+
+(_a Mauri, per rassicurarlo_) Aspettate! (_Al marito, con aria di
+sfida_) Con te, dove?
+
+SILVIO
+
+Dove? A casa!
+
+FULVIA
+
+E come?
+
+SILVIO
+
+(_subito, con forza_) Come moglie! come moglie!
+
+FULVIA
+
+E se c'è lei che mi crede morta?
+
+SILVIO
+
+Ecco, sì — questo è duro — e irreparabile! — Ma bisogna superar questo,
+nel solo modo in cui è possibile!
+
+FULVIA
+
+Non capisco come dici!
+
+SILVIO
+
+Ma che tu sii moglie, anche se in apparenza per lei non potrai esser
+madre!
+
+FULVIA
+
+Moglie senz'esser madre? Ah, tu intendi «un'altra»?
+
+MAURI
+
+(_subito_) È una barbarie! è una barbarie!
+
+FULVIA
+
+Ma io non sono _un'altra_!
+
+SILVIO
+
+Certo! Sarà solo apparenza! Tu sarai pure la madre!
+
+FULVIA
+
+E lei mi crederà la matrigna?
+
+MAURI
+
+Non accettare, Flora! non accettare! È una barbarie!
+
+SILVIO
+
+Non c'è altro mezzo! — Se questa è una barbarie, che è meglio? la
+condizione che le offrite voi?
+
+MAURI
+
+Meglio, sì! centomila volte meglio! La fame, Flora... con me! Meglio!
+Pensa che strazio, essere _un'altra_ per tua figlia!
+
+SILVIO
+
+Se puoi sopportarlo...
+
+FULVIA
+
+(_subito, con sprezzo, ma già sopra pensiero_) Ma non è questo!
+Sopporto tutto, io! — Se la figlia è mia — io non sono un'altra — sono
+sua madre! (_Si alza e come se cominciasse a comprendere soltanto ora_)
+Tu dunque mi riprenderesti con te?
+
+MAURI
+
+(_trasecolato_) Accetti?
+
+FULVIA
+
+(_senza badare al Mauri, rivolgendosi al marito, o piuttosto, parlando
+quasi tra sè_) Ma come? — Ah già, il matrimonio c'è... Non ci sarebbe
+più bisogno di nulla!
+
+SILVIO
+
+È solo per lei! Apparenza...
+
+MAURI
+
+(_tra sè_) Ah che tradimento!... Lasciarsi riprendere da lui!
+
+FULVIA
+
+(_c. s._) Ha già sedici anni... Certo non può avere nessuna memoria di
+me.
+
+SILVIO
+
+Ne aveva poco più di tre...
+
+FULVIA
+
+(_subito, con scherno_) Quando io morii... — (_Poi, riprendendosi_) Ma
+gli altri? Potranno riconoscermi!
+
+SILVIO
+
+Nessuno, dove sto ora — quasi in campagna. Ma questo non importa!
+Cambieremo paese.
+
+MAURI
+
+(_risoluto_) Dunque, per me, Flora, è proprio finito? Non è possibile,
+bada! non è possibile!
+
+FULVIA
+
+(_scrollandosi, infastidita_) Ma che volete voi!
+
+MAURI
+
+(_terribile_) Come, che voglio! E come faccio io ora? Come resto senza
+di te?
+
+SILVIO
+
+(_facendoglisi innanzi_) Dovreste capire che non è più tempo di parlare
+così!
+
+MAURI
+
+(_c. s._) Io ho spezzato, distrutto la mia vita per lei!
+
+FULVIA
+
+(_interrompendosi, rivolta al marito_) Lascia, aspetta. Gli parlo io...
+
+MAURI
+
+(_abbracciandola, frenetico_) Non voglio sentir nulla! Sei mia! Non ti
+lascio!
+
+SILVIO
+
+(_avventandosi per strappargliela_) Ah, con la violenza?
+
+FULVIA
+
+(_divincolandosi_) Lasciatemi!
+
+MAURI
+
+(_c. s._) Non ti lascio! Non la lascio!
+
+FULVIA
+
+(_riuscendo a liberarsi e respingendolo_) Lasciatemi, vi dico!
+
+SILVIO
+
+Fuori! Fuori di qua! Via, fuori!
+
+MAURI
+
+(_rompendo in disperati singhiozzi_) Ma per pietà, almeno!
+
+FULVIA
+
+(_vibrante_) Che pietà volete, se io avevo già troncato ogni legame con
+voi?
+
+MAURI
+
+Ma io, no! io, no!
+
+FULVIA
+
+Questo vostro pianto, ora, è veramente di più!
+
+MAURI
+
+Una vita... Come se non fossi uno, io! — Mi stronchi... — dici che sono
+di più!
+
+  Casca a sedere, come stroncato veramente, singhiozzando sempre.
+
+SILVIO
+
+Via, via, basta...
+
+FULVIA
+
+(_facendo un cenno a Silvio, e accostandosi al Mauri_) Un po' di
+carità, un po' di carità... Bisogna mandarlo via con le buone!
+
+
+  TELA
+
+
+
+
+ATTO SECONDO
+
+
+SCENA
+
+Sala nella villa del dottor Silvio Gelli, presso uno dei villaggi
+intorno al lago di Como. La sala è vasta, chiara di tanto azzurro
+intorno, che dilaga tra il verde.
+
+Arredo di tinta tenue, molto signorile, ma non nuovo, perchè Fulvia
+Gelli possa riconoscerlo per quello stesso, che ella, tredici anni
+addietro, lasciò in un'altra casa. In fondo è una veranda, da cui si
+scende nel giardino. Due usci laterali a destra. La comune a sinistra.
+
+Sono passati dal primo atto circa quattro mesi. È agosto.
+
+
+  Sono in iscena, al levarsi della tela, FULVIA, la governante BETTA
+  e il COMMESSO DI NEGOZIO. Fulvia è in una ricca e gaja vestaglia
+  estiva. Ha ancora i suoi capelli di fuoco, ma composti in una
+  placida pettinatura. Non ha più il fosco pallore del primo atto:
+  pare rasserenata. La vecchia governante Betta ha l'aria d'una mezza
+  signora: sta con gli altri due presso a un tavolino ed esamina con
+  l'occhialetto e palpa e tasta i molti scampoli di tela, bianchi e
+  anche colorati, celesti, rosei, lilla, e i varii merletti, che il
+  commesso di negozio ha tratti da una grande scatola di tela cerata
+  con cinghie di cuojo, posata su una sedia accanto al tavolino.
+
+
+COMMESSO
+
+Già! Se la signora vuol proprio pigliarsi il fastidio...
+
+FULVIA
+
+Ma no! Non sarà mica un fastidio!
+
+COMMESSO
+
+Capisco — _pardon!_ — per una madre... Ma sarà un po' lungo, mi
+permetto di farle osservare, preparare tutt'intero un corredino di
+nascita...
+
+FULVIA
+
+Oh, mi servirà anche per passare il tempo!
+
+COMMESSO
+
+Capisco. Dicevo, perchè ne abbiamo tanti, già belli e pronti in
+bottega — una meraviglia, sa? — tutti assortiti — di tutto punto —
+delicatissimi...
+
+FULVIA
+
+(_a Betta che esamina una tela_) Che ve ne pare, di questa?
+
+BETTA
+
+Ah! — lenta... lenta...
+
+COMMESSO
+
+Pelle d'uovo, codesta! Sopraffina. — Si fanno di codesta, ora. Oppure
+di _nansouk_.
+
+BETTA
+
+(_giocando con le parole_) Sarà _nansù_ — io non so: ma è lenta.
+
+COMMESSO
+
+(_piccato_) No, scusi — ho detto che codesta è pelle d'uovo.
+
+BETTA
+
+Pelle d'uovo — ma è lenta.
+
+COMMESSO
+
+Ma no, per carità! Lieve, morbida — sfido! per le carni tènere d'un
+neonato! — ma resistentissima. Garantisco.
+
+FULVIA
+
+Sarà, sarà... Ma non è, a ogni modo, quella ch'io cercavo. C'era una
+volta un'altra tela — fina così, morbida — ma ben più solida!
+
+COMMESSO
+
+Dice forse _cambrì_, la signora?
+
+BETTA
+
+Eh, ma le antiche mussoline!
+
+FULVIA
+
+No no — non _cambrì_.
+
+COMMESSO
+
+Battista di lino? battista di cotone?
+
+FULVIA
+
+Non so. Voglio fargliela vedere. — Fatemi il piacere, Betta, salite su.
+Livia conserva ancora in quella vecchia cassapanca, sapete?
+
+BETTA
+
+Lo so.
+
+FULVIA
+
+Anche alcuni capi del suo corredino di nascita: li ho visti.
+
+BETTA
+
+Sissignora. Vado. (Si avvia).
+
+FULVIA
+
+No, meglio... aspettate! Non ditele nulla. Pregatela di scender qui un
+momento.
+
+BETTA
+
+Sissignora.
+
+  Via per il secondo uscio a destra.
+
+FULVIA
+
+Vedrà, vedrà che morbidezza e che altra solidità!
+
+COMMESSO
+
+Eh, ma lavato questo _nansouk_, sa come infittisce, signora? E creda
+che, quanto a morbidezza, non c'è niente che regga al paragone di
+questa pelle d'uovo.
+
+FULVIA
+
+Intanto restiamo d'accordo, è vero, per queste battiste qui colorate.
+Se ci fosse un lilla più tenue...
+
+COMMESSO
+
+Sissignora, ne abbiamo in bottega. Ma anche questo mi pare che vada
+benissimo...
+
+FULVIA
+
+E quanto ai _valençiennes_ poi no, proprio no: questi non vanno.
+
+COMMESSO
+
+Eh, lo so. È proprio da piangere, creda! Le condizioni presenti del
+mercato...
+
+  Entra dal secondo uscio a destra LIVIA. Ha poco più di sedici anni.
+  Seria, rigida, s'intorbida ogni qualvolta si sforza di guardare in
+  faccia. È vestita insolitamente di strettissimo lutto. Fulvia non
+  s'accorge in prima ch'ella è entrata.
+
+LIVIA
+
+Mi hai fatto chiamare?
+
+FULVIA
+
+(_voltandosi appena_) Ah sì, Livia, vieni. (_Vedendola così vestita di
+nero, e restando_) Oh, e perchè così?
+
+  Livia abbassa gli occhi e non risponde.
+
+FULVIA
+
+(_sovvenendosi subito_) Ah già... sì sì... scusami, sai! (_Cambiando
+idea, in conseguenza_) E allora niente, niente...
+
+LIVIA
+
+(_fredda_) Che volevi?
+
+FULVIA
+
+No, niente. Vai subito in chiesa?
+
+LIVIA
+
+Fra poco. Il parroco ha detto che non poteva prima delle undici.
+
+FULVIA
+
+Finirete tardi, allora. Tre messe...
+
+LIVIA
+
+Io volevo due.
+
+FULVIA
+
+(_subito in tono di rimprovero, ma dolce; come ferita_) No, Livia.
+Questo è un voler fare un dispiacere a papà. Non dico poi a me!
+
+LIVIA
+
+(_c. s._) Volevo che fossero due, appunto per non fare un dispiacere a
+te. (_Dirà questo come se, sotto l'apparenza d'una benevola attenzione,
+non fosse contenuta un'ingiuria per lei_).
+
+FULVIA
+
+(_con amarezza_) Ma che vuoi che faccia a me dispiacere, se non questo:
+che tu possa pensarlo? Sono state tre messe ogni anno; saranno tre
+anche quest'anno. Papà verrà con te?
+
+LIVIA
+
+Non so se voglia venire.
+
+FULVIA
+
+Verrà, verrà. Glielo dirò io di venire. (_Staccando_) Stavo qui a
+sceglier la tela per il corredino.
+
+LIVIA
+
+(_rigida, come per cosa che non la riguardi affatto_) Ah...
+
+FULVIA
+
+(_non potendo non notare il contegno di lei_) Vai, vai; non volevo mica
+il tuo ajuto. (_E vedendo che Livia se ne va senz'altro, soggiunge
+irritata, cangiando improvvisamente tono e umore_) Volevo che mi
+lasciassi, almeno per un po', la chiave di quella cassapanca, dov'è
+custodito quel resto del tuo corredino.
+
+LIVIA
+
+Sta bene. Te la manderò giù.
+
+  Esce per il secondo uscio a destra.
+
+FULVIA
+
+(_al Commesso che nel frattempo avrà ripiegato e rimesso dentro la
+scatola tutti gli scampoli e i merletti_) Scusi...
+
+COMMESSO
+
+Oh, per carità, signora!
+
+FULVIA
+
+Per farla finita, restiamo così: prendo il _nansouk_.
+
+COMMESSO
+
+Ah, benissimo! Creda, è la scelta migliore, signora.
+
+FULVIA
+
+La quantità che le ho detto.
+
+COMMESSO
+
+Benissimo. Ho già preso l'appunto. Le manderò allora tutto in giornata.
+Riverisco, signora.
+
+FULVIA
+
+A rivederla.
+
+  Il Commesso, reggendo la scatola, esce per la comune, mentre dal
+  secondo uscio a destra rientra in iscena BETTA.
+
+FULVIA
+
+(_subito, vedendola, in tono derisorio_) La fate dire anche voi,
+dunque, una messa in suffragio dell'anima benedetta?
+
+BETTA
+
+(_da vecchia volpe_) Mi perdoni, signora. È uso, ormai. Ogni anno, in
+questo giorno... Mi perdoni...
+
+FULVIA
+
+(_sdegnata, severa_) Perchè volete che vi perdoni?
+
+BETTA
+
+Ma perchè forse quest'anno, ecco, si poteva non farne sapere nulla alla
+signora.
+
+FULVIA
+
+Sentite dunque che c'è qualche cosa di male in questo?
+
+BETTA
+
+No, signora. Si fa per la povera figliuola...
+
+FULVIA
+
+Ah, per lei! Non lo fate dunque per voi, nè per la padrona morta?
+
+BETTA
+
+Anche per me, sissignora, e per la povera padrona. È uso, le dico.
+
+FULVIA
+
+Tutti gli anni, dacchè è morta?
+
+BETTA
+
+Tutti gli anni, sissignora. Una la figlia, una io, una il signor
+dottore.
+
+FULVIA
+
+Anche Livia, _da allora_?
+
+BETTA
+
+Eh, la prima, lei!
+
+FULVIA
+
+Ah, questo no, vedete! Non vi fate bene il conto, cara Betta! Livia
+doveva esser piccina, e non poteva pensare allora a far dir messe.
+Tranne che non ci abbiate pensato voi, per suo conto, o il padre.
+
+BETTA
+
+(_rimanendo imbarazzata_) Già... veramente... Sarà stato il padre...
+
+FULVIA
+
+(_ridendo_) Come va, come va quest'affare? Voi dovreste ricordarvi,
+perchè siete stata sempre qua, voi! Vi è morta tra le braccia, la
+padrona!
+
+  SILVIO GELLI, che è stato di là a parlare con Livia, entrando a
+  questo punto per il primo uscio a destra, ode le ultime parole di
+  Fulvia, e subito, costernatissimo, temendo ch'ella stia quasi per
+  svelare il segreto, la richiama.
+
+SILVIO
+
+Fulvia! (_ma subito resta come interdetto, tradito dal primo impeto che
+gli ha fatto venire sulle labbra il vero nome di lei_).
+
+FULVIA
+
+(_subito voltandosi, rimediando con gioja maligna_) Chi chiami? Fulvia?
+Oh Dio benedetto! Capisco che oggi è l'anniversario; ma che tu debba
+pensarci fino al punto di chiamarmi col «suo» nome, via, mi sembra un
+po' troppo!
+
+SILVIO
+
+Scusami... sì, hai ragione...
+
+FULVIA
+
+Di niente, caro! È naturale. Nomi soprammessi, sfuggono! Mi chiamavo
+Flora, sapete, Betta? Brutto nome, veramente: di cagna. Mi ha chiamata
+Francesca, col mio secondo nome. (_Al marito_): Bisogna che te ne
+ricordi, caro! (_Lo guarda, lo vede costernato, come sospeso_) Che
+cos'è? Sto cercando di rimediare, con buona grazia, mi sembra, a una
+tua _gaffe_.
+
+SILVIO
+
+(_un po' irritato, facendole intendere che la sua costernazione non è
+per questo_) Sì, va bene... Ma...
+
+FULVIA
+
+(_comprendendo_) Niente, parlavamo delle tre messe d'oggi... (_A
+Betta_) Non v'ha dato nulla Livia per me?
+
+SILVIO
+
+(_subito_) Ecco, venivo per questo.
+
+FULVIA
+
+(_turbandosi, eccitandosi_) Non mi vuol dare la chiave della cassapanca?
+
+SILVIO
+
+(_a Betta_) Andate, andate, Betta. Credo che Livia abbia bisogno di voi.
+
+FULVIA
+
+Forse sta a piangere perchè gliel'ho chiesta?
+
+SILVIO
+
+(_a Betta che non sa allontanarsi_) Andate vi dico!
+
+  Betta via per il secondo uscio a destra.
+
+FULVIA
+
+(_attaccando subito, con sdegno_) Senti, ah, questo no!
+
+SILVIO
+
+Lasciami dire!
+
+FULVIA
+
+Ho fatto trasportare io stessa in camera sua — vedendo che ne
+soffriva — gli antichi mobili della nostra camera da letto, e glien'ho
+consegnate le chiavi!
+
+SILVIO
+
+È vero, sì...
+
+FULVIA
+
+(_seguitando, con foga sempre più appassionata_) E n'avevo tanto
+bisogno, tanto! di rivedermeli attorno, quei mobili!
+
+SILVIO
+
+Ma devi pensare...
+
+FULVIA
+
+(_pronta, forte_) Penso a tutto! Ma questo no, Dio mio! Lo feci io, con
+le mie mani, quel corredino per lei! prima che nascesse!
+
+SILVIO
+
+Sì, sì!
+
+FULVIA
+
+Ricordi che non volevi? Me lo strappavi dalle mani! Ritrovarlo insieme
+con gli abiti miei di allora, fu per me... ah Dio, non lo so dire! Vi
+affondai la faccia; vi respirai la mia purezza di allora; la risentii
+viva in me, qua, nella gola — come un sapore — vi piansi dentro, e me
+ne lavai tutta l'anima... (_Staccando_) Bene: gliel'ho dati; me li sono
+strappati io stessa da me...
+
+SILVIO
+
+Ma capisci...
+
+FULVIA
+
+(_pronta c. s._) Perchè capisco! perchè capisco! Ma c'era qua il
+commesso. Volevo mostrargli la tela d'una di quelle camicine. Che
+cos'è, male? Non posso?
+
+SILVIO
+
+Ma non è questo!
+
+FULVIA
+
+E che cos'è? Perchè le ha indossate lei, non vuole che le faccia
+uguali, ora, per quest'altra? (_Torbida, minacciosa_) — Bada — ah,
+bada! Moglie — sta bene — rappresento qua un'altra — pensi di me ciò
+che vuole! Ma madre no, sai? bada! come madre mi deve rispettare!
+
+SILVIO
+
+Ma ti rispetta...
+
+FULVIA
+
+Non dico madre di lei! dico di quella che verrà! Badi! badi! Me la
+difendo, perchè non mi resta più altro qua per sentirmi ancora viva.
+
+SILVIO
+
+Non eccitarti così, per carità!
+
+FULVIA
+
+Non mi eccito, no. Quello che hai saputo fare per uccidermi! (_Pausa.
+Poi, piano, tentennando il capo_) Fissare anche il giorno della morte!
+
+SILVIO
+
+Ma no... Me lo chiese, una volta...
+
+FULVIA
+
+E tu, là! subito la data. E tre messe... Di' la verità: devi essere
+stato anche tu a ordinare a quella vecchia marmotta...
+
+SILVIO
+
+E dàlli! Te l'ho detto! A furia di ripeterlo — forse per acquistarsi
+una maggiore benevolenza da Livia — è facile che quell'imbecille ci
+creda lei stessa, alla fine!
+
+FULVIA
+
+D'avermi tenuta morta tra le braccia? (_ride_) Ah! ah! ah! ah! Fino al
+punto di farmi dire in suffragio una messa insieme con te!
+
+SILVIO
+
+Questo delle messe è un pensiero di Livia. Mi domandò una volta; non
+credetti di doverle dire di no.
+
+FULVIA
+
+Ma se l'hai accompagnata sempre in chiesa.
+
+SILVIO
+
+Per farle piacere. Sai che non soglio andarci per me.
+
+FULVIA
+
+Ci andrai anche oggi!
+
+SILVIO
+
+Non vado.
+
+FULVIA
+
+Voglio che tu vada!
+
+SILVIO
+
+Non vado, non vado!
+
+FULVIA
+
+Non privarmi di questo spettacolo, che almeno, via, è da ridere!
+Pòstumo — per me! — (_Staccando_) Gliel'ho già detto a Livia, che
+andrai.
+
+SILVIO
+
+E io le ho detto or ora che non vado.
+
+FULVIA
+
+Me lo fai dunque apposta?
+
+SILVIO
+
+Che cosa?
+
+FULVIA
+
+Per farmi odiare di più?
+
+SILVIO
+
+Deve comprenderlo anche lei, e lo comprende, difatti, che ora è un
+riguardo, questo...
+
+FULVIA
+
+(_pronta, scoppiando di nuovo a ridere, allegramente_) Che tu devi a
+me? Ah! ah! ah! ah!
+
+SILVIO
+
+Ti va di ridere...
+
+FULVIA
+
+Ma sì, caro! È meglio che me la prenda a ridere! (_ride ancora_) Perchè
+ti senti ridicolo tu stesso, vestito di nero, compunto, a messa, per
+me, che sono qua viva, (_ride di nuovo_) e faccio le corna!
+
+SILVIO
+
+Ma per nulla! Se non l'ho fatto per me...
+
+FULVIA
+
+(_staccando, con altra voce_) Scusa: _Ora_ me lo devi, il riguardo?
+
+SILVIO
+
+Come, _ora_? perchè?
+
+FULVIA
+
+Perchè si riduce tutto a mio danno!
+
+SILVIO
+
+(_forte, con convinzione_) Ma ho inteso di rispettarti sempre, io, qua!
+
+FULVIA
+
+(_pronta_) Me? Ah, no, caro! La tua impostura!
+
+SILVIO
+
+(_fermo e serio_) Io ti prego di credere alla mia sincerità.
+
+FULVIA
+
+Ci credo, ah, ci credo! E ciò che è orribile in te è questo, difatti:
+la sincerità della tua impostura: codesta... oh, via! non mi far
+parlare!
+
+SILVIO
+
+No, di', di', parla!
+
+FULVIA
+
+(_ancora una volta staccando, con altra voce_) Vuoi farmi del bene
+davvero?
+
+SILVIO
+
+(_stordito da questa che gli pare un'improvvisa diversione_) Come?
+Certo!
+
+FULVIA
+
+(_subito, fredda_) Non avere nessun riguardo per me!
+
+SILVIO
+
+Ma che dici?
+
+FULVIA
+
+Dico questo: trattami come una... una di quelle cagnacce di strada, che
+per caso ti si sia messa dietro, attaccata alle calcagna.
+
+SILVIO
+
+Ah sì! Bello, così!
+
+FULVIA
+
+(_c. s. quasi che parlasse d'un'altra_) Così, così. Non potendo più
+levartela dai piedi, per forza, rassegnato, hai dovuto portartela in
+casa. Se lei potesse credere questo, forse, vedendomi trattata così,
+disprezzata, avvilita, e nello stesso tempo, me, umile, docile...
+
+SILVIO
+
+Ma non è possibile!
+
+FULVIA
+
+Ah, ora, grazie, lo so! Hai fatto il contrario! C'è un odore di
+santità, qui, che viene da quella morta...
+
+SILVIO
+
+(_alludendo alla figlia_) Non aveva avuto madre! Che la pensasse almeno
+come una santa, dovendo farle un inganno, mi parve che questo fosse il
+più pietoso, non solo per lei, ma anche per te!
+
+FULVIA
+
+(_con impeto, subito frenato_) Non dire per me! non dire per me! Non
+l'hai fatto per me, scusa! Per te l'hai fatto, per quietarti in qualche
+modo la coscienza, che ti rimordeva. E non l'hai quietata! Non si
+quieta mica, con le imposture, la coscienza.
+
+SILVIO
+
+T'ho pregata di non usare più codesta parola!
+
+FULVIA
+
+Scusa, mi hai fatto morire, e poi mi hai santificata! e ti sei
+santificato, e hai santificato tutto qua! (_Staccando e cambiando tono
+ancora una volta_) Posso ammettere che la mia morte poteva essere,
+lì per lì, una «necessaria» menzogna. Ma se lei era così piccina! Le
+si era schiusa, la vita, con te solo accanto! Ti avrà domandato...
+così, della madre, da grandicella, è vero? Dovendo fingere, scusa, non
+potevi, anche senza dirglielo, farle intendere che non eri stato lieto
+nel tuo matrimonio?
+
+SILVIO
+
+Già, sì! A giudicarne adesso!
+
+FULVIA
+
+T'avrebbe amato di più; non avrebbe rimpianto nulla!
+
+SILVIO
+
+Ma dovevo immaginare che potesse succeder questo! Scusa, è strano! Ne
+parli, come se tu ne fossi gelosa...
+
+FULVIA
+
+Ah, sì, nel cuore di mia figlia!
+
+SILVIO
+
+Ma pensa che sei in fondo tu stessa!
+
+FULVIA
+
+Non è vero! non è vero! Io stessa? L'ho toccato! L'ho sentito! Sono
+morta! morta veramente! Le sto davanti, e sono morta! Non sono io,
+questa qua, viva; è un'altra, sua madre... di là, morta! Vorrei
+prenderla per le braccia (_allude a Livia_) scuoterla, guardarla fissa
+negli occhi e dirle: No! no! Credi a me, cara: perchè è morta... Non
+possono più far male, i morti, e perciò, dopo molto tempo, si pensa
+di essi solo il bene. _Anche la morte, cara, può essere una menzogna!_
+(_Staccando, vibrante, con un'espressione quasi da folle_) Sai quante
+volte mi viene questa tentazione?
+
+SILVIO
+
+Per carità, Fulvia!
+
+FULVIA
+
+Non temere, chè ci penso, io più di te! (_Pausa_) Sfido! con te tutto
+dedito per tanti anni alla venerazione di quell'anima santa, doveva
+sembrarle per forza un tradimento, così, all'improvviso, da un giorno
+all'altro. (_Pausa_) Prima, sì — ci avrà pensato... così, una volta
+l'anno. (_Staccando_) Ma non è vero! non è vero! Si dimentica tutto! ci
+si adatta a tutto! È un'altra cosa ora! È quella sua, sì, vera gelosia,
+per conto della morta, ora. (_Pausa_) Doveva nascerle per forza, appena
+entrata io qua. Prima, era lei come lei. Appena entrata io, a prender
+posto accanto a te, lei s'è fatta la rappresentante di _quell'altra_.
+Naturale. Colei che ne tiene il posto. Ha voluto tutto ciò che le
+apparteneva: i mobili, tutto. Ho dovuto darglieli io stessa. M'è parso
+giusto. Tanto questa menzogna s'è fatta realtà qua, per tutti: l'unica,
+l'unica, in cui viva tua figlia! Dico _tua_, vedi? Non la sento, non
+la sento più realmente come mia! Non la sento! E non ti pare una cosa
+disumana. Bisogna ucciderla, ucciderla, questa menzogna, perchè io sono
+viva, viva, viva!
+
+SILVIO
+
+Per carità, per carità, Fulvia! Hai riconosciuto tu stessa la necessità
+di tacere — _anche per te!_
+
+FULVIA
+
+Proprio per me? Tu vuoi tacere per non offendere _sua madre_, ecco
+perchè!
+
+SILVIO
+
+Ma se sei tu!
+
+FULVIA
+
+Non è vero! Io per lei sono — _questa_ — _e non posso essere sua
+madre!_ Sono arrivata al punto di crederci io stessa! Mi pare, mi
+pare veramente _figlia di quell'altra_. È spaventoso! Fin dal primo
+momento che la vidi e dovetti frenare ogni impeto che mi lanciava ad
+abbracciarla, a rifarmela mia sul mio petto! Le parole riguardose che
+fui costretta a dirle, che lei quasi m'impose col suo contegno, sono
+rimaste — irremovibili — non solo, ma così, proprio — realtà — realtà
+— anche per me. La guardo, con quelle spallucce lì, con quell'aria, e
+non credo più io stessa, proprio non sento più, che glieli abbia fatti
+io, quegli occhi, quella bocca; come se veramente ci fosse stata qui
+un'altra, da cui lei è nata — che io non so! — E il bello è poi, che
+non lo sa neanche lei! — L'ombra, divenuta realtà! E che realtà! Ha
+ucciso in me, veramente, il mio istinto materno per lei! Ora più che
+mai, che lo risento in me vivo per un'altra. — Via, via, via. — Non
+voglio più pensarci. — Si stia con la sua morta. E mi lasci qua — viva
+e in pace — per chi verrà.
+
+SILVIO
+
+Non dirlo! Sei stata qua con lei — son quattro mesi ormai...
+
+FULVIA
+
+A sorriderle, su questa graticola a fuoco lento... — Dio mio, basta ti
+dico. Non ne parliamo più. (_Va a distendersi su una sedia a sdrajo_)
+— Discorsi che si fanno... Poi non ci si pensa più. (_Pausa tenuta_)
+— Questa notte mi sono svegliata. Mi son messa a pensare, calmissima.
+Sì, questo dolore c'è, questa cosa orribile nella mia vita. Ma pure...
+— eh, si dorme! E se mi sveglio, posso mettermi a guardarmi le mani
+al lume del lampadino rosa... (_Silvio, tentato, a questo punto le si
+fa presso, e la contempla lì distesa_) — Che?... — Niente... così...
+le mani... il letto... i mobili nuovi della camera... — La vita è
+uguale; e ha tante cose a cui posso pensare, oltre questo mio dolore...
+(_Scotendosi un po'_) — Bisogna dire che non è vero che quando uno ha
+un dolore, non pensa più ad altro. Pensa a tante altre cose. Io pensavo
+questa notte... — indovina? _Ah come vorrei essere, come vorrei essere
+allegra!_ E questo è segno, sai? che non sono una canaglia.
+
+SILVIO
+
+(_che le si è fatto sempre più accosto e ha seguitato a contemplarla_)
+Per carità, che dici! (_E fa per prenderle una mano_).
+
+FULVIA
+
+(_ritraendo la mano_) Va' là, che ti piaccio ora, perchè ho questi
+capelli così!
+
+SILVIO
+
+No, Fulvia... Ti stanno bene, sì...
+
+FULVIA
+
+Ti eccitano!
+
+SILVIO
+
+Per carità, non dirlo...
+
+FULVIA
+
+(_sdegnata, nel vederlo così presso di lei per le sue grazie ambigue,
+involontarie_) Ma io non voglio mica essere allegra così!
+
+  Sopravviene a questo punto BETTA, dalla comune in grande esultanza.
+
+BETTA
+
+(_annunciando_) Signor dottore, signor dottore!
+
+SILVIO
+
+(_levandosi, urtato d'essere stato sorpreso in quel momento
+d'intimità_) — Che cos'è?
+
+BETTA
+
+La zia Ernestina! È arrivata la zia Ernestina!
+
+SILVIO
+
+(_subito, costernatissimo_) Come! qua?
+
+FULVIA
+
+(_con lieta meraviglia_) O senti! — La zia Ernestina! È ancora viva?
+
+SILVIO
+
+(_per richiamarla alla sua finzione di seconda moglie_) Francesca! (_E
+subito volgendosi a Betta e avviandosi con lei verso la comune_) Dov'è?
+Com'è arrivata?
+
+FULVIA
+
+(_tra sè, mentre il marito s'avvia con Betta_) Ah già! Io non la
+conosco!
+
+BETTA
+
+(_rispondendo a Silvio_) In carrozza... Sta a pagare il vetturino...
+
+SILVIO
+
+Andate subito! Non la fate entrar qui! Conducetela su da Livia!
+
+BETTA
+
+Vado, sissignore! Ah, come sarà contenta la signorina!
+
+  Via di furia per la comune.
+
+SILVIO
+
+Non ci mancava che lei oggi!
+
+FULVIA
+
+Ma come, scusa, la mandi da Livia? — È mia zia! Saprà tutto!
+
+SILVIO
+
+Tutto, sì; ma sa anche come deve comportarsi con Livia.
+
+FULVIA
+
+Ah, anche lei?
+
+SILVIO
+
+Sai bene com'è...
+
+FULVIA
+
+Me l'immagino! Indignata, offesa nei suoi pudori — per scroccarti
+ancora del danaro — morta, sepolta...
+
+SILVIO
+
+Ma come si fa adesso? — Se ti rivede, si tradirà! — Bisogna mandarla
+via subito! — Me l'ero levata dai piedi — e rieccola daccapo!
+
+  Si sentono dietro la comune le voci di Betta e della ZIA ERNESTINA.
+  Poco dopo, questa si precipiterà in iscena incontro a Silvio, con
+  le braccia levate in atto tragico. È una magra vecchina invelenita
+  più dagli antichi disinganni che dalla miseria, stupida come
+  una gallina, e sempre mezzo stordita, come se fosse sorda. Ma
+  non è sorda. E quella storditaggine può essere anche finta. Ha i
+  capelli tinti d'una rossa orribile manteca. Si presenta parata di
+  strettissimo lutto.
+
+BETTA
+
+(_dall'interno_) Ma no, scusi! non di qua! non di qua!
+
+ZIA ERNESTINA
+
+(_dall'interno_) Lasciatemi! (_Entra c. s. con Betta_) Morta? morta
+dunque davvero, la mia povera nipote?
+
+SILVIO
+
+(_su le furie, temendo che Livia la senta di su_) Si stia zitta,
+perdio! — Le proibisco di parlare! (_A Betta_) Andate, andate su, voi,
+e impedite a Livia almeno di scendere!
+
+  Betta corre via per il secondo uscio a destra.
+
+ZIA ERNESTINA
+
+Dev'esser morta davvero, se hai potuto riprender moglie! Ti scrissi;
+non m'hai risposto...
+
+SILVIO
+
+(_con rabbia, per farla tacere, indicandole Fulvia_) Eccola lì! — Ma si
+stia zitta!
+
+ZIA ERNESTINA
+
+(_stordita sul serio, accorgendosi della presenza di Fulvia, ma non
+riconoscendola e credendola veramente la seconda moglie di Silvio_) Oh
+— scusi: non l'avevo vista, signora. Sono la zia dell'altra moglie...
+
+  Dal secondo uscio a destra irrompe improvvisamente LIVIA con le
+  braccia tese verso la zia Ernestina.
+
+LIVIA
+
+Zia! zia! zia!
+
+ZIA ERNESTINA
+
+Livia! (_Si abbracciano strette strette, a lungo_).
+
+LIVIA
+
+Zia mia! zia mia!
+
+ZIA ERNESTINA
+
+(_piangendo_) Orfanella mia! povera orfanella mia!
+
+SILVIO
+
+(_infuriato, cercando di strapparla dall'abbraccio_) Via, basta! Non mi
+faccia qua ora codeste scene!
+
+ZIA ERNESTINA
+
+Sì... sì... hai ragione — per riguardo qua...
+
+SILVIO
+
+Per riguardo a niente! Ma voglio che si ricordi che sua nipote è morta
+da tredici anni! (_Pigerà sulle parole, per farle intendere che davanti
+a Livia bisogna ch'ella seguiti a sostenere l'antica finzione_).
+
+ZIA ERNESTINA
+
+(_non comprendendo affatto_) Ah già... sì... — ma per me... ora...
+
+SILVIO
+
+(_subito, cercando di rimediare_) Per lei il dolore sarà ancora come
+recente; ma si ricordi pure, che tanto per Livia quanto per lei la
+disgrazia non è di jeri, nè di quattro mesi fa!
+
+ZIA ERNESTINA
+
+(_c. s. seguitando a non riconoscere Fulvia_) Ah, già — sì! Son più di
+quattro mesi... Chiedo scusa, signora...
+
+LIVIA
+
+(_fiera, fredda, provocante, supponendo che il padre abbia mostrato
+tanta durezza per un riguardo verso la seconda moglie_) Andiamo su!
+vieni con me, zia Ernestina!
+
+ZIA ERNESTINA
+
+(_subito_) Sì, figliuola mia... orfanella mia, sì... sì... Sei anche tu
+vestita di nero...
+
+  E tutt'e due, abbracciate, se ne escono per il secondo uscio a
+  destra.
+
+FULVIA
+
+(_con un'impressione quasi di gelo_) Non mi ha riconosciuta...
+
+SILVIO
+
+È colpa mia, è colpa mia. Mi scrisse veramente, chiedendomi...
+
+FULVIA
+
+Ma hai visto? Non m'ha riconosciuta...
+
+SILVIO
+
+Deve credere così...
+
+FULVIA
+
+Ch'io sia morta davvero?
+
+SILVIO
+
+Supponendomi riammogliato! — Dovevo risponderle, avvertirla, spiegarle.
+Ma potevo immaginare che dovesse venire, dopo che la cacciai via
+malamente, tant'anni fa, per il fastidio che mi dava?
+
+FULVIA
+
+È ritornata per lei, (_allude su a Livia_) sicura di trovare ora in lei
+un'alleata che la protegga, contro te e contro me.
+
+SILVIO
+
+Ah no: s'inganna!
+
+FULVIA
+
+Sei certo che non le abbia scritto lei?
+
+SILVIO
+
+Ma no! Non hai visto che è arrivata all'improvviso?
+
+FULVIA
+
+(_quasi tra sè_) La zia Ernestina... Ma guarda! — E non m'ha
+riconosciuta...
+
+SILVIO
+
+(_accennando ad avviarsi per il secondo uscio a destra_) Se ne
+ritornerà ora stesso donde è venuta!
+
+FULVIA
+
+(_per richiamarlo_) No! Che fai?
+
+SILVIO
+
+La mando via!
+
+FULVIA
+
+(_alludendo a Livia_) Ma non hai visto come s'è piantata lì,
+provocante, credendo tu la bistrattassi per me?
+
+SILVIO
+
+Ma glielo dirò io — che non la voglio io, io!
+
+FULVIA
+
+Crederà sempre che sia per causa mia! Non vedi che, per forza, tutto
+qua si ritorce contro di me?
+
+SILVIO
+
+Che vuoi che faccia allora?
+
+FULVIA
+
+Come se l'è stretta fra le braccia: «_Zia mia, zia mia!_» — E quella
+stupida là: «_Orfanella mia!_» — Se non fosse da piangere...
+
+SILVIO
+
+Insomma, io non posso star tranquillo, con lei qua! Bisogna che vada
+via immediatamente!
+
+FULVIA
+
+Fammi il piacere: accompagna Livia in chiesa, e mandamela giù. Mi farò
+riconoscere.
+
+SILVIO
+
+E la indurrai a ripartirsene subito?
+
+FULVIA
+
+Vedremo, vedremo.
+
+SILVIO
+
+No, no — non la voglio — non la voglio per casa. Deve ripartirsene!
+
+FULVIA
+
+E se potesse giovare?
+
+SILVIO
+
+Ma che vuoi che giovi quella lì!
+
+  Silvio esce per il secondo uscio a destra.
+
+FULVIA
+
+(_sola — dopo una pausa — assorta_) Zia Ernestina... — la credevo
+morta...
+
+  Rientra BETTA dalla comune, reggendo a fatica due grosse valige
+  della zia Ernestina, una di qua, una di là a contrappeso.
+
+BETTA
+
+Pèsano... pèsano...
+
+FULVIA
+
+Sono della zia... (_si corregge subito_) della signorina Galiffi?
+
+BETTA
+
+E ha portato anche un baule!
+
+FULVIA
+
+Ah — è dunque venuta per restare?
+
+BETTA
+
+Almeno dalla roba che porta... — Su, in foresteria, è vero?
+
+FULVIA
+
+Sì, sì — per ora...
+
+  Betta via, con le valige per il secondo uscio a destra. Poco
+  dopo, da quest'uscio entra, tutta imbarazzata e titubante come una
+  vecchia pollastra scappata dalla stia, la ZIA ERNESTINA.
+
+ZIA ERNESTINA
+
+Permesso?
+
+FULVIA
+
+(_recandosi a chiuder l'uscio da cui zia Ernestina è entrata; decisa
+a pigliarsela un po' a godere prima di svelarsi_) Venga, venga —
+s'accomodi. Livia è già andata? Doveva essere in ritardo...
+
+ZIA ERNESTINA
+
+(_su le spine_) Sì... — col padre.
+
+FULVIA
+
+S'accomodi, s'accomodi.
+
+ZIA ERNESTINA
+
+Grazie. — In chiesa...
+
+FULVIA
+
+Come dice?
+
+ZIA ERNESTINA
+
+Dico che è andata in chiesa, col padre.
+
+FULVIA
+
+Sì sì, per le messe. Forse anche lei avrebbe desiderato andarci
+— perchè saprà che oggi — (_piano, pigiando, con uno sguardo
+d'intelligenza_) — per la figlia — è l'anniversario.
+
+ZIA ERNESTINA
+
+Ah — la signora sa, dunque?
+
+FULVIA
+
+Come vuole che non sappia, scusi!
+
+ZIA ERNESTINA
+
+Ma io non so nulla, invece! — Dev'esser morta da poco, è vero? la mia
+povera nipote.
+
+FULVIA
+
+(_la guarda, forzandosi a dissimulare lo stupore che la agghiaccia; poi
+dice_) Eh, non da poco veramente...
+
+ZIA ERNESTINA
+
+Manco di qua da sei anni circa. Ero l'unica parente. Mi si poteva
+avvertire... — Ma com'è morta? com'è morta? la signora lo sa?
+
+FULVIA
+
+(_tentenna il capo, poi dice_) Sì, lo so.
+
+ZIA ERNESTINA
+
+Male?
+
+FULVIA
+
+Eh, male, sì! (_Pausa — poi_) L'hanno uccisa.
+
+ZIA ERNESTINA
+
+(_con un balzo_) Uccisa? Come! Chi l'ha uccisa?
+
+FULVIA
+
+Zitta, per carità! (_Con aria misteriosa_) Non se n'è saputo nulla.
+
+ZIA ERNESTINA
+
+Uccisa!.. Ma come? dove? Neanche i giornali ne parlarono!
+
+FULVIA
+
+Ma... sa!... di certi delitti non si parla sui giornali. (_Piano,
+guardandola di nuovo con aria misteriosa, come per rassicurarla, in
+confidenza_) Stia tranquilla!
+
+ZIA ERNESTINA
+
+(_intontita_) Io? (_Poi, più che mai smarrita_) E come l'ha saputo lei?
+da suo marito?
+
+FULVIA
+
+(_fa cenno di sì, con truce cipiglio, poi, di nuovo, piano, in
+confidenza_) Mi ha confidato tutto.
+
+ZIA ERNESTINA
+
+(_trasecolata_) Lui? Oh Dio! Che cosa?
+
+FULVIA
+
+(_c. s._) Non tema! non tema! Io so tacere... (_E le posa, come a
+giurarlo, una mano sulle mani_).
+
+ZIA ERNESTINA
+
+(_c. s._) Le giuro che io non so nulla, signora! Oh Dio! Ma che c'entri
+dunque lui? Badi che io sono la zia _di lei_!
+
+FULVIA
+
+Ma che zia! Mi faccia il piacere! Non seguiti a far la parte con me! Le
+dico che so tutto, scusi!
+
+ZIA ERNESTINA
+
+Io? La parte? Che parte? (_c. s._)
+
+FULVIA
+
+Ma se lei è la complice!
+
+ZIA ERNESTINA
+
+Io? La complice?
+
+FULVIA
+
+Lei! Lei!
+
+ZIA ERNESTINA
+
+Che dice? Io? Complice di che?
+
+FULVIA
+
+Come, di che? Dell'uccisione!
+
+ZIA ERNESTINA
+
+Io?
+
+FULVIA
+
+(_non resistendo più alla vista del trasecolato terrore della
+vecchia, scoppia a ridere come una matta_) Ah! ah! ah! ah! (_E subito
+facendolesi vicinissima, scostandosi i capelli dalle tempie e dalla
+fronte e tenendosi il volto come per presentarglielo_) Ma dici davvero,
+zia Ernestina? Ma guardami bene! Non mi riconosci?
+
+ZIA ERNESTINA
+
+(_come basita, tirandosi indietro col busto e parando le mani_) Che?...
+Che?...
+
+FULVIA
+
+Sono io! Non mi riconosci davvero?
+
+ZIA ERNESTINA
+
+Fulvia? Tu?
+
+FULVIA
+
+Zitta! Ora sono Francesca!
+
+ZIA ERNESTINA
+
+Ma come?
+
+FULVIA
+
+Eh! come... Te l'ho detto come!
+
+ZIA ERNESTINA
+
+Oh Dio... Mi pare d'impazzire!.. Tu?.. Qua di nuovo?
+
+FULVIA
+
+(_nega vivacemente col dito_) Francesca, Francesca.
+
+ZIA ERNESTINA
+
+Come!.. Fulvia?
+
+FULVIA
+
+(_c. s. e poi sillabando_) Fran-ce-sca.
+
+ZIA ERNESTINA
+
+Impazzisco davvero.
+
+FULVIA
+
+(_subito, abbracciandola_) Povera zia Ernestina, no! Ma è proprio vero,
+sai, proprio vero: la complice! Me l'ha detto lui!
+
+ZIA ERNESTINA
+
+No... no... Ti giuro che io...
+
+FULVIA
+
+Scusa, e per chi allora è andata a pregare Livia in chiesa?
+
+ZIA ERNESTINA
+
+(_cominciando a smarrirsi di nuovo_) Già... io...
+
+FULVIA
+
+Vedi? Ti sei anche vestita di nero! Più complice di così?
+
+ZIA ERNESTINA
+
+Ma perchè ho creduto davvero che ora tu...
+
+FULVIA
+
+E sì: difatti: eccomi qua: La signora Francesca Gelli!
+
+ZIA ERNESTINA
+
+Lasciati vedere... Sai, che non ci vedo quasi più!
+
+FULVIA
+
+Effetto della tintura, zia! (_Accenna ai capelli tinti della vecchia_)
+Deleteria, deleteria per la vista... Guardatene! Anch'io, vedi?
+(_mostra i suoi_) E me l'hanno detto. Si può anche accecare.
+
+ZIA ERNESTINA
+
+Ma no, è l'età! Ecco, anche per codesti capelli non ti riconoscevo...
+
+FULVIA
+
+Scusa, scusa, e la voce?
+
+ZIA ERNESTINA
+
+Dopo tredici anni, che vuoi! E sono anche un po' sorda. Poi con la
+certezza che... (non sia mai, figliuola mia)! Ma dimmi, dimmi com'è
+stato? Vi siete riconciliati, eh? e avete dovuto fare per la figlia
+quest'altra finzione...
+
+FULVIA
+
+Sì, almeno credevo...
+
+ZIA ERNESTINA
+
+Ah, s'è saputo? Ma Livia, no, Livia crede...
+
+FULVIA
+
+Lo credono tutti, per questo!
+
+ZIA ERNESTINA
+
+E allora?
+
+FULVIA
+
+Mah, il guajo è che ho finito per crederlo anch'io, come la Betta!
+
+ZIA ERNESTINA
+
+Che? Oh Dio, non ricominciare!
+
+FULVIA
+
+No, no. Mi sono abituata ormai. Devi crederlo anche tu, zia; ma proprio
+crederlo come... che so! come puoi credere a te stessa.
+
+ZIA ERNESTINA
+
+Ah, si sa! Dici per Livia? per la gente?
+
+FULVIA
+
+No, per te, per te. Dico proprio per te! Per te, come zia di lei!
+
+ZIA ERNESTINA
+
+Di Livia?
+
+FULVIA
+
+No! _Di quella che fu tua nipote!_ (_Con stranezza_) Bella nipote, te
+ne puoi vantare! (_Pausa_) Lo facesti per danaro; ma t'assicuro io, che
+avresti potuto provarne onta per davvero!
+
+ZIA ERNESTINA
+
+(_sbalordita_) Come?
+
+FULVIA
+
+Pessima! Pessima! Una vitaccia! (_Staccando, nel veder la faccia della
+zia Ernestina_) Vorresti forse difenderla dopo che..?
+
+ZIA ERNESTINA
+
+(_c. s._) Ma scusa, non parli di te?
+
+FULVIA
+
+No, cara zia! Ti dico che io sono la signora Francesca Gelli, e non
+puoi sapere con quale e quanta voluttà rovescio tutte le infamie che so
+addosso a codesta tua nipote, che qua, lo vedi? innalzata alle glorie
+del paradiso, si va a pregare in chiesa — tutti — anche la serva! (_Con
+scatto di gioia quasi frenetica_) Sono madre di nuovo io, sai?
+
+ZIA ERNESTINA
+
+Madre?
+
+FULVIA
+
+Madre, madre — come prima! — quella di prima! quella che lei non
+conobbe! (_allude alla figlia_). Ah, zia Ernestina — credi, credi — è
+una vera rinascita per me! Capisci che mi risento madre come allora —
+in attesa — prima ch'ella mi nascesse? Così, così! E mi sento io, qua,
+io sola — per quello che sono ora, viva come prima — _la vera santa_
+— io, per tutto il martirio che ho sofferto, prima e dopo, — questi
+quattro mesi qua, con lei... — ah, che cosa, se sapessi! — Dio, Dio,
+che cosa!... che cosa!
+
+ZIA ERNESTINA
+
+Me l'immagino, me l'immagino... Ma te l'ha dato senza saperlo, quella
+poverina...
+
+FULVIA
+
+Senza saperlo, ma con che ferocia! Fredda, sai? oh, mansa! Il vero
+livore! (_All'improvviso, si turba profondamente; si alza, stringendosi
+forte una mano sugli occhi_) Oh Dio, basta che non mi fissi!
+
+ZIA ERNESTINA
+
+(_sorpresa da questo moto improvviso_) Che cosa?
+
+FULVIA
+
+Niente. Una cosa che ho detto poco fa a suo padre... Bisogna che me la
+scacci dalla mente! (_Forzandosi a rientrare nella coscienza abituale_)
+Credi che ho fatto di tutto, zia, non per farmi amare... non per me, ma
+perchè lei... non so, sentisse — ecco — sentisse che io... — non te lo
+so dire! — Anche i suoi dispetti, certe volte, mi son parsi carini...
+mi han fatto sorridere entro di me. Ma se n'è accorta. E a vederla
+cangiare in viso, allora! Un martirio, sì. L'ho potuto sopportare,
+perchè sono così di nuovo, credi, com'ero per lei, a diciott'anni.
+(_Staccando come per un'idea che le sorge improvvisa_) A proposito! Mi
+dovresti fare un favore, zia Ernestina. Son sicura che lei si presterà.
+
+ZIA ERNESTINA
+
+Un favore? Io?
+
+FULVIA
+
+Sì. Dovresti indurla, proprio per farmi un dispetto; _dicendoglielo_, a
+comparirmi davanti, uno di questi giorni, all'improvviso, con quel mio
+abito di velo a roselline, ch'ella conserva.
+
+ZIA ERNESTINA
+
+Ma no! Che ti viene in mente?
+
+FULVIA
+
+Sì, sì, zia! Mi farebbe tanto piacere, rivedermi in lei, per un
+momento, com'ero all'età sua!
+
+ZIA ERNESTINA
+
+Ma che idea, no!
+
+FULVIA
+
+È vero che mi somiglia poco...
+
+ZIA ERNESTINA
+
+E come vuoi che lo faccia! Non lo farebbe mai!
+
+FULVIA
+
+Per non profanar quella veste davanti ai miei occhi? Forse hai ragione.
+
+ZIA ERNESTINA
+
+E poi, io — ma figurati! — Sai che mi troverò in un bel impiccio, io,
+ora?
+
+FULVIA
+
+Oh! Non arrischiarti a lasciare trapelar nulla! Silvio è
+costernatissimo... Non m'ha raccomandato altro. Vuole che te ne vada
+via subito, anzi.
+
+ZIA ERNESTINA
+
+Ah, come? così subito?
+
+FULVIA
+
+Povera zia Ernestina, venuta per angariare l'intrusa, d'accordo con la
+nipotina!
+
+ZIA ERNESTINA
+
+Ma no! Che dici?
+
+FULVIA
+
+Non t'ha chiamato lei? di' la verità!
+
+ZIA ERNESTINA
+
+No, ti giuro! Ero venuta soltanto per sapere...
+
+FULVIA
+
+Scusa, e il baule? (_ride_).
+
+ZIA ERNESTINA
+
+(_presa al laccio_) Già... l'ho portato... Ma non potevo immaginare...
+
+FULVIA
+
+Non fa nulla; non fa nulla. E per me, anzi, ora... Ma bisognerebbe che
+tu sapessi fingere — ma proprio bene — senza mai tradirti...
+
+ZIA ERNESTINA
+
+Dio mio... sarà difficile...
+
+FULVIA
+
+L'hai fatto per tanti anni!
+
+ZIA ERNESTINA
+
+Già, ma non con te davanti!
+
+FULVIA
+
+Ecco: tu pensa sempre a ciò che fu tua nipote!
+
+ZIA ERNESTINA
+
+No! Dio liberi!
+
+FULVIA
+
+Perchè?
+
+ZIA ERNESTINA
+
+Non ci ho mai pensato, trattando con Livia!
+
+FULVIA
+
+Appunto. Pensaci ora!
+
+ZIA ERNESTINA
+
+(_con orrore_) Trattando con te? Oh!
+
+FULVIA
+
+Non essere sciocca! Io non sono tua nipote! Ma vedrai che Livia mi
+tratta come _quella_. Glielo leggo negli occhi, sospetta di me, chi sa
+che orrori!
+
+ZIA ERNESTINA
+
+Ma no, un'innocente!
+
+FULVIA
+
+L'odio le fa da diavolo! Quello dell'albero, sai?
+
+ZIA ERNESTINA
+
+Che albero?
+
+FULVIA
+
+La storia sacra, zia Ernestina! L'albero della conoscenza... il
+serpente...
+
+ZIA ERNESTINA
+
+(_senza comprendere_) Ah... già... (_Poi_) E tuo marito? Tuo marito?
+
+FULVIA
+
+Che cosa?
+
+ZIA ERNESTINA
+
+Com'è ora con te?
+
+FULVIA
+
+(_si turba, la guarda, esita a rispondere: poi, accigliandosi_) Mi
+stomaca.
+
+ZIA ERNESTINA
+
+Ma sai che è divenuto...?
+
+FULVIA
+
+Lo so, lo so, che cosa è divenuto! Me, però, capisci? _mi vuole come
+quella_ ancora...! A quattr'occhi, capisci? vorrebbe che _quella
+santa_, rediviva e istruita, tutta la sua probità... (_fa un gesto
+ambiguo, con le mani_)..
+
+ZIA ERNESTINA
+
+(_pudibonda, ma con viva curiosità_) Non capisco...
+
+FULVIA
+
+(_con nausea_) Ma sì, gliela sconquassasse; per poi la mattina dopo,
+raggiustarsela addosso, tutta ancora un po' rabbuffata, davanti alla
+figlia! È ancora quello di prima, sai? Ma allora, almeno, non aveva
+cinquant'anni e non faceva il probo per professione, e io non capivo,
+come capisco adesso! Scusami, scusami, zia Ernestina: non devi capire
+neanche tu!
+
+ZIA ERNESTINA
+
+(_scottata nel suo pudore, torna, come se nulla fosse, al primo
+discorso_) Ecco: io ti dovrei guardare, dovrei averti davanti il meno
+possibile...
+
+FULVIA
+
+Dici, per non tradirti?
+
+ZIA ERNESTINA
+
+Già... Ma scusa, non si potrebbe, a poco a poco...
+
+FULVIA
+
+No! Impossibile! Non te lo sto dicendo? E poi, questi tredici anni ci
+sono stati davvero! E questo suo livore d'ora... Sarebbe terribile per
+lei!.. Guai! Ne sono così convinta che non ci penso neanche più... e
+(_Subito staccando, imperiosamente e piano_) Zitta!
+
+  Rientra dalla comune BETTA.
+
+BETTA
+
+Signora, c'è il professore: il signor Cesarino.
+
+FULVIA
+
+Oh Dio, Livia oggi non prende certo la lezione! Bisognava farglielo
+sapere, senza farlo venire fin qua...
+
+BETTA
+
+Già. Ma la signora sa che vengono anche per... (_fa cenno con la mano:
+«per mangiare»_).
+
+FULVIA
+
+Ah, c'è anche la signora Barberina?
+
+BETTA
+
+Sissignora. Stanno tutt'e due a scuotersi di là tutta la polvere
+d'addosso, sudatissimi.
+
+FULVIA
+
+Fateli entrare, poverini.
+
+  Betta via.
+
+FULVIA
+
+(_piano, accostandosi_) Attenta ora, mi raccomando, zia Ernestina!
+
+  Entrano il SIGNOR CESARINO e la SIGNORA BARBERINA. Due tipi buffi:
+  quello, fino fino, calvo, ma pure con molti capelli, tutt'intorno
+  al cranio e sugli orecchi, candidissimi e rigonfi. È paonazzo
+  dal gran sole che ha preso, venendo a piedi. Perduto in un
+  abbondantissimo abito nuovo di seta cruda, evidentemente tagliato
+  e cucito dalla saggia moglie, ha ripiegato da piedi non solo i
+  calzoni, ma anche sui polsi, più d'una volta, le maniche, anche per
+  il caldo, che gli fa tenere un gran fazzoletto, bagnato di sudore,
+  in mano. La signora Barberina, atticciata e balorda, sempre in
+  apprensione per la svolazzante vivacità del marito, veste un abito
+  chiaro, d'una chiarezza che strilla sulla sordità pesante della sua
+  bruna carnagione pacifica, e ha un vistoso cappellino di paglia a
+  sghimbescio, che le sta proprio un amore.
+
+SIGNORA BARBERINA
+
+(_dalla comune_) Permesso?
+
+FULVIA
+
+Avanti, avanti, signora Barberina.
+
+SIGNORA BARBERINA
+
+Riverisco, signora.
+
+SIGNOR CESARINO
+
+(_inchinandosi, sbracciandosi_) Signora gentilissima...
+
+FULVIA
+
+(_facendo le presentazioni_) — Mi permettano. Il signor Cesarino
+Rota, maestro di musica di Livia, e la signora Barberina, sua moglie.
+— La signorina Galiffi — prozia di Livia. (_Inchini da una parte e
+dall'altra_) Si accomodino, prego.
+
+SIGNOR CESARINO
+
+Che caldo! che caldo, signora mia... Qua è una delizia! — La polvere!
+
+SIGNORA BARBERINA
+
+(_notando con orrore e facendo notare al marito, che è entrato in sala
+con le maniche e coi calzoni ancora rimboccati_) Ma Cesarino!
+
+SIGNOR CESARINO
+
+(_non comprendendo_) Che cosa?
+
+SIGNORA BARBERINA
+
+Dio mio, ma si entra così?
+
+SIGNOR CESARINO
+
+(_subito, riparando, a cominciar dai calzoni_) Ah, già... Mi perdonino!
+(_Se non che, svolgendo la rimboccatura del primo calzone, un
+mucchietto di polvere cade sul tappeto_) Oh, guarda quanta terra...
+
+SIGNORA BARBERINA
+
+Ma va' di là, santo Dio!
+
+SIGNOR CESARINO
+
+(_subito, alzandosi e dirigendosi verso la comune_) Sì, ecco... Mi
+permettano, mi permettano... (_Esce, per rientrare poco dopo_).
+
+SIGNORA BARBERINA
+
+Scusi tanto, signora!
+
+FULVIA
+
+Ma no, non è niente.
+
+SIGNORA BARBERINA
+
+È così mai distratto! Non se ne possono fare un'idea!
+
+FULVIA
+
+Eh, artista!
+
+SIGNORA BARBERINA
+
+Per lo stradone, poi, veramente...
+
+FULVIA
+
+Ecco, mi dispiace tanto, che...
+
+SIGNOR CESARINO
+
+(_rientrando_) Ah, eccomi qua... (_E subito ripigliando istintivamente
+a rimboccarsi le maniche_) E la mia allieva? la mia allieva?
+
+FULVIA
+
+Dicevo appunto questo, signor Cesarino. Mi dispiace che Livia...
+
+SIGNOR CESARINO
+
+Non sta forse bene?
+
+FULVIA
+
+No. È andata in chiesa col padre...
+
+SIGNOR CESARINO
+
+(_preoccupatissimo, per la sua qualità d'organista_) E che cos'è oggi?
+Che funzioni? — Dio mio, Barberina!
+
+FULVIA
+
+Ma no, stia tranquillo! È una funzione privata. Oggi è — (_rivolgendosi
+alla zia Ernestina_) dica lei, signorina: il dodicesimo o il
+tredicesimo?
+
+ZIA ERNESTINA
+
+(_sbalordita, cadendo dalle nuvole_) Io? Che cosa? Non saprei!
+
+FULVIA
+
+Dico l'anniversario...
+
+SIGNOR CESARINO
+
+(_subito, sovvenendosi_) Ah, della morte?
+
+SIGNORA BARBERINA
+
+(_c. s. compuntissima_) Della sua mamma, già!
+
+FULVIA
+
+(_indicando, con compunzione anche lei, la zia Ernestina_) Nipote
+appunto della signorina...
+
+ZIA ERNESTINA
+
+(_vivamente, come per ripigliarsi dallo sbalordimento_) Già... già...
+sì — oggi, — l'anniversario.
+
+FULVIA
+
+Il tredicesimo — è vero?
+
+ZIA ERNESTINA
+
+Sì sì — il tredicesimo, il tredicesimo...
+
+SIGNOR CESARINO
+
+Oh guarda... guarda...
+
+SIGNORA BARBERINA
+
+Noi non sapevamo... Domandiamo scusa, allora. Non saremmo venuti...
+
+FULVIA
+
+Già: non s'è pensato ad avvertirli.
+
+SIGNORA BARBERINA
+
+Quanto mi dispiace! (_Accennando a levarsi_) Ma allora...
+
+FULVIA
+
+(_subito_) No, no — possono trattenersi. (_Alla zia Ernestina_) Non
+credo, signorina, è vero, che Livia... — Oh, per sonare, certo oggi non
+sonerà...
+
+SIGNOR CESARINO
+
+Ma via! ma dopo tredici anni!
+
+SIGNORA BARBERINA
+
+(_strillando_) Cesarino! — ma non senti che c'è qua...? (_indica la zia
+Ernestina, che non sa più che viso fare_).
+
+SIGNOR CESARINO
+
+Ah, _pardon, pardon!_
+
+SIGNORA BARBERINA
+
+Veste ancora di nero, non vedi?
+
+FULVIA
+
+Sì, perchè la amava proprio come una figliuola.
+
+SIGNOR CESARINO
+
+Eh, si vede... si vede... È venuta ora a trovare qua la sua nipotina,
+eh?
+
+ZIA ERNESTINA
+
+Già... sì... son venuta...
+
+SIGNOR CESARINO
+
+Proprio per questa triste ricorrenza?
+
+ZIA ERNESTINA
+
+(_non sapendo che rispondere_) Già... sì...
+
+SIGNORA BARBERINA
+
+Ah, ma dunque sarà meglio che noi...
+
+FULVIA
+
+No, ecco — volevo dir questo. Non credo che Livia potrà aver dispiacere
+che rimangano a tavola, come al solito, il suo professore e la signora.
+Tanto più che doveva pensar lei ad avvertirli di non venire. — Ma
+capiranno: c'è qua la zia... — Dica, dica lei, signorina!
+
+ZIA ERNESTINA
+
+(_c. s._) Che?... che debbo dire?
+
+FULVIA
+
+Nessuno meglio di lei è in grado d'interpretar l'animo della
+figliuola...
+
+ZIA ERNESTINA
+
+(_impappinandosi e riprendendosi a stento_) Già... ma... capirai...
+capirà... sono... sono ospite anch'io qua... di... di lei...
+
+FULVIA
+
+Ah, bene! E allora io, per conto mio, non permetterò che il professore
+e la signora se ne ritornino indietro, di mezzogiorno, con questo
+sole...
+
+SIGNOR CESARINO
+
+Già il tocco! già il tocco!
+
+FULVIA
+
+Ah sì? E allora a momenti saranno qua...
+
+SIGNOR CESARINO
+
+Di volo... con l'automobile... che bellezza! — Le assicuro, signora
+mia, che noi due, a ritornare a piedi, adesso, si morirebbe...
+
+FULVIA
+
+(_alzandosi_) No no. — Vadano, vadano a mettersi in comodità. — (_Si
+alzano tutti_) Possono andar di là al solito. (_Indica il primo uscio a
+destra_).
+
+SIGNORA BARBERINA
+
+Grazie... Mi leverò allora, con permesso, il cappello...
+
+SIGNOR CESARINO
+
+E io vorrei, con licenza della signora... Ecco, oggi dovevo anche
+accomodare il pianoforte...
+
+SIGNORA BARBERINA
+
+Ma no, Cesarino! Non hai inteso che oggi non si suona?
+
+SIGNOR CESARINO
+
+Accordare non è sonare!
+
+FULVIA
+
+La farà poi, se mai, signor Cesarino: dopo tavola...
+
+SIGNOR CESARINO
+
+Ah, bene bene... E allora, ci permettano... Andiamo a rinfrescarci un
+po'!
+
+SIGNORA BARBERINA
+
+Con permesso... (_S'inchina_).
+
+  Escono per il primo uscio a destra, marito e moglie.
+
+ZIA ERNESTINA
+
+(_a precipizio, con aria da spiritata_) Ah, no no no no no! Me ne vado,
+me ne vado! — Non ci resisto!
+
+FULVIA
+
+(_sorridendo_) Eh, vedo anch'io, zia Ernestina...
+
+ZIA ERNESTINA
+
+Ma che! — Non ci resisto! Ora stesso me ne vado!
+
+  Si ode a questo punto la voce di BETTA dalla comune.
+
+VOCE DI BETTA
+
+(_che annunzia_) Eccoli di ritorno!
+
+ZIA ERNESTINA
+
+Vado su! vado su! Vado a prepararmi! Via! via! via!
+
+  Esce di furia per il secondo uscio a destra. Quasi
+  contemporaneamente entra dalla comune SILVIO GELLI.
+
+SILVIO
+
+(_con ansia, alludendo alla partenza di zia Ernestina_) Ebbene?
+
+FULVIA
+
+(_guarda verso la comune, poi domanda_) Livia?
+
+SILVIO
+
+È entrata di là. Sarà su. — Che hai fatto?
+
+FULVIA
+
+Se ne va; se ne va via da sè...
+
+SILVIO
+
+Oggi stesso?
+
+FULVIA
+
+Oggi... non so, domani... — Ha riconosciuto lei stessa l'impossibilità
+di rimanere.
+
+SILVIO
+
+Ah, bene! Ma non vorrei che oggi, a tavola...
+
+FULVIA
+
+C'è, per fortuna, il maestro con la signora.
+
+SILVIO
+
+Sono di là? (_indica il primo uscio a destra_).
+
+FULVIA
+
+Sì, vai vai. Fa' presto. A momenti saremo a tavola.
+
+  Silvio, via per il primo uscio a destra. Poco dopo, dal secondo,
+  entra LIVIA che si dirige risolutamente, con fosco cipiglio, verso
+  Fulvia.
+
+LIVIA
+
+Hai detto tu a zia Ernestina d'andarsene?
+
+FULVIA
+
+(_addolorata di vedersela davanti così, le risponde con grande
+dolcezza_) No, cara. Non io...
+
+LIVIA
+
+E chi dunque la fa partire appena arrivata?
+
+FULVIA
+
+Non so, nessuno... — Lei stessa.
+
+LIVIA
+
+Lei stessa non può essere!
+
+FULVIA
+
+Eppure torno a dirti che è lei...
+
+LIVIA
+
+Ma se — arrivando questa mattina — mi disse ch'era venuta per rimanere
+qui a lungo con me!
+
+FULVIA
+
+Lo so anch'io. M'hanno detto che ha portato con sè anche un baule...
+
+LIVIA
+
+Dunque, vedi...
+
+FULVIA
+
+Io t'assicuro, Livia, che per conto mio non avrei avuto nulla in
+contrario. Dissi anzi a tuo padre, che avrei avuto piacere ch'ella
+rimanesse.
+
+LIVIA
+
+Ah, dunque è lui? (_Fiera, dura, guardandola negli occhi_) Perchè?
+
+FULVIA
+
+Non per me, credi, Livia. — Lo so; tu devi sospettare così.
+
+LIVIA
+
+Sospettare... È così chiaro, mi sembra!
+
+FULVIA
+
+No, scusa. Perchè allora ti dico, che potresti ricordare che già
+un'altra volta — _senza che ci fossi io_ — egli non la volle più in
+casa e la mandò via. Me l'ha detto lui — se è vero...
+
+LIVIA
+
+Allora, sì! È vero. — Ma il caso, _ora_, sarebbe diverso.
+
+FULVIA
+
+(_sempre con accorata e più intensa dolcezza_) Perchè ora ci sono io
+— tu dici. E l'ho detto anch'io, difatti, a tuo padre. Gli ho fatto
+notare appunto, che tu ne avresti incolpato me.
+
+LIVIA
+
+Non ostante questo, però — per incarico di lui — tu l'hai licenziata.
+
+FULVIA
+
+Ma non l'ho licenziata io! Nè altri! — Che vuoi che ti dica? Se ha
+deciso d'andarsene, così, da un momento all'altro, sarà perchè... non
+so, dopo aver parlato con me, qua, avrà concepito forse... avversione,
+antipatia. — È il mio destino, qua, per quanto io faccia di tutto...
+— E tu, se potessi essere un po' giusta verso di me, dovresti
+riconoscerlo. Credi, sono stata con lei affabilissima. Ma mi hanno
+detto che è stata sempre un po' bisbetica e fastidiosa...
+
+LIVIA
+
+Io le voglio bene!
+
+FULVIA
+
+Me l'immagino. E credi che l'ho trattata affabilmente anche per
+questo. Io non so... abbiamo financo riso insieme. Non so proprio di
+che cosa si sia potuta avere a male... (_Tentando di volgere in riso,
+affettuosamente, il discorso, appigliandosi a ciò che ha di comico la
+figura della zia Ernestina_) Ma forse... — sai perchè? — (_si china un
+po' verso lei sorridendo, per mostrarle il capo, e sollevando con una
+mano una ciocca de' suoi capelli, aggiunge_) Questi capelli...
+
+LIVIA
+
+Che vuoi dire?
+
+FULVIA
+
+È tinta anche lei, lo sai. Me li ha guardati con un viso così
+arcigno... Teme forse che la sua tintura debba sfigurare troppo accanto
+alla mia. Tu non puoi comprendere ancora certe debolezze...
+
+LIVIA
+
+(_dura, recisa_) Ah, certo! Meglio che non le comprenda!
+
+FULVIA
+
+(_avvertendo che lo sdegno di lei si riferisce solo ai suoi capelli
+tinti e non a quelli della vecchia_) Eppure... eppure io seguito a
+tingermeli per te, sai?
+
+LIVIA
+
+(_con nausea_) Per me?
+
+FULVIA
+
+Per te, sì. — E per consiglio di tuo padre.
+
+LIVIA
+
+Non capisco.
+
+FULVIA
+
+Non capisci, lo so. Ma immagina che io abbia _naturalmente_, sotto
+questa tintura, i capelli dello stesso colore dei tuoi — ma proprio
+tali e quali!
+
+LIVIA
+
+Ebbene?
+
+FULVIA
+
+Potresti pensare che il colore a codesti tuoi ti sia potuto venire da
+quelli di tua madre...
+
+LIVIA
+
+(_ponendosi ambo le mani sul capo, come a riparare i capelli di sua
+madre, e dice, scostandosi_) Sì, lo so!
+
+FULVIA
+
+Te l'ha detto tuo padre? Ed ecco perchè mi consiglia di seguitare a
+tingermi i miei. E io lo faccio: mentre non vorrei più, ti giuro. (_Con
+un desiderio angoscioso, improvviso che la intenerisce, al ricordo di
+se stessa giovine come è ora la figlia_) — Ti guardo codesti ricciolini
+teneri sulla nuca... Mi verrebbe voglia di prenderli con due dita e
+allungarteli pian piano... senza farti male...
+
+  Livia ha un moto istintivo di ribrezzo.
+
+FULVIA
+
+(_lo nota, ma quasi per pietà di sè stessa dice con un sorriso
+indefinibile_) Tu provi il solletico solo a sentirtelo dire.
+
+LIVIA
+
+(_c. s. con uno scatto irrefrenabile_) No!
+
+FULVIA
+
+È ribrezzo delle mie dita? — Hai ragione. _Anch'io penso che così
+forse, quand'eri piccina te li carezzava tua madre..._
+
+  Livia si nasconde la faccia e scoppia in pianto. Sopravviene dal
+  primo uscio a destra SILVIO che, evidentemente stava alle vedette.
+
+SILVIO
+
+Livia, che cos'è?
+
+FULVIA
+
+(_subito_) Niente! niente! Piange per la partenza della zia. Bisogna
+assolutamente che tu la faccia restare.
+
+SILVIO
+
+Ma sì, si vedrà...
+
+FULVIA
+
+No, deve, deve restare, deve restare!
+
+SILVIO
+
+Va bene; resterà. Ma Livia sa bene (_le si accosta per abbracciarla_)
+che non merita questo suo pianto...
+
+LIVIA
+
+(_aggrappandosi al padre, in una convulsione d'odio e di ribrezzo_) Non
+piango per questo! non piango per questo!
+
+SILVIO
+
+(_con Livia sul petto, guardando severamente Fulvia_) E allora?
+
+FULVIA
+
+(_apre desolatamente le braccia, guardando come da lontano_) Io non
+so...
+
+  Entra, dopo una breve pausa, BETTA dal primo uscio a destra,
+  fermandosi sulla soglia.
+
+BETTA
+
+È pronto, signora! (_E si ritira_).
+
+SILVIO
+
+Su, su, Livia! Basta. Andiamo... C'è gente di là... Non è bene che
+sentano...
+
+LIVIA
+
+(_riprendendosi_) Sì... sì...
+
+SILVIO
+
+Asciughiamo codeste lagrime... (_S'avvia, con Livia abbracciata; poi,
+sollevando il capo verso Fulvia_) Andiamo...
+
+FULVIA
+
+(_riaprendo le braccia e sospirando_) Andiamo.
+
+
+  TELA
+
+
+
+
+ATTO TERZO
+
+
+SCENA
+
+La stessa scena del secondo atto. Sei mesi dopo: di febbrajo, verso
+sera.
+
+
+  Sono in iscena LIVIA e la ZIA ERNESTINA. Non sono più vestite di
+  nero nè l'una nè l'altra. Livia è irrequieta, smaniosa. Sta seduta
+  presso un tavolinetto, su cui stanno libri, riviste. Ne prende in
+  mano qualcuno; lo sfoglia; lo butta. La zia Ernestina è in piedi e
+  va di qua, di là, per riscaldarsi. La luce del giorno manca a poco
+  a poco.
+
+
+ZIA ERNESTINA
+
+Pareva dovessero arrivare col buon tempo; ho paura invece che stia per
+guastarsi di nuovo. (_Pausa_) Brrr... fa un freddo qui... — (_Pausa_)
+Non ne senti tu?
+
+LIVIA
+
+(_buttando via una rivista, risponde sgarbatamente_) No!
+
+ZIA ERNESTINA
+
+Eh, beata te! (_Pausa_) (_Si stropiccia le mani_) Febbrajo, febbrajo...
+— Viaggiare con questo gelo, con una bambina appena nata... — (_Pausa_)
+Ma di', si può sapere dov'è andata Betta?
+
+LIVIA
+
+Non lo so.
+
+ZIA ERNESTINA
+
+Sono più di quattr'ore che è fuori. — Mi pare che si dovrebbe pure
+preparare qualche cosa per l'arrivo. Non c'è preparato niente!
+
+LIVIA
+
+(_alzandosi indignata_) È preparato tutto! (_Poi, dopo una pausa_).
+Potresti capire che m'indigna codesta tua premura!
+
+ZIA ERNESTINA
+
+(_con un sorriso di smorfiosa mansuetudine_) No, sai com'è? Penso che
+gioja fu, quando tu nascesti...
+
+LIVIA
+
+E che c'entro io?
+
+ZIA ERNESTINA
+
+Dopo tutto, è una tua sorellina...
+
+LIVIA
+
+(_con scatto irresistibile_) Stupida!
+
+  Lunghissima pausa. Livia, tutta vibrante, scaraventa sul tavolino
+  un libro, che aveva preso in mano, dopo la rivista. Si volge più
+  d'una volta verso la zia, come per dirle qualche cosa, ma è troppo
+  colma d'odio e di dispetto, e si trattiene.
+
+ZIA ERNESTINA
+
+(_sospirando_) Eh! — saranno guai!
+
+LIVIA
+
+È incredibile! Ma come puoi tu, tu, ricordar la mia nascita, la gioja
+che ne ebbe mia madre? — È incredibile! incredibile!
+
+ZIA ERNESTINA
+
+È un'altra vita che comincia... E ce n'è tanto bisogno qua!
+
+LIVIA
+
+Io aspetto ancora di sapere una cosa; e poi te la lascio qua — a te che
+hai fatto lega — codesta vita che comincia!
+
+ZIA ERNESTINA
+
+Aspetti? Che aspetti?
+
+LIVIA
+
+Lo so io!
+
+ZIA ERNESTINA
+
+Che gusto anche tu, adesso, a far la misteriosa! — Che intendi dire che
+me la lasci qua? — Te ne vorresti andare?
+
+LIVIA
+
+(_infastidita_) Oh, basta, zia Ernestina. — Non voglio parlare con te.
+
+ZIA ERNESTINA
+
+(_dopo una pausa_) Hai tuo padre, del resto, qua, che ti vuol tanto
+bene, e che ha tanti riguardi...
+
+LIVIA
+
+(_con violenza rabbiosa_) Basta, ti dico! — Non capisci che non posso
+sentirti dire così?
+
+ZIA ERNESTINA
+
+Non parlo più. (_Dopo una lunga pausa però, non sapendo resistere,
+ripiglia_) Ma certe idee, pure, dovresti levartele dal capo... —
+(_Altra pausa_) Perchè son prevenzioni, credi, prevenzioni...
+
+LIVIA
+
+(_sbuffando_) Oh Dio, ancora!
+
+ZIA ERNESTINA
+
+(_frinzelandosi_) Dici che ho fatto lega! — Ero venuta qua per te!
+
+LIVIA
+
+Per difendermi, già!
+
+ZIA ERNESTINA
+
+Per difenderti! per difenderti!
+
+LIVIA
+
+E ora difendi lei!
+
+ZIA ERNESTINA
+
+Ma non la difendo! — Sono giusta. — Vedo che sei tu! Non vuoi disarmare!
+
+LIVIA
+
+(_con scatto subitaneo, aggressiva_) Ma lo sai tu _veramente_ che donna
+ha portato in casa mio padre?
+
+ZIA ERNESTINA
+
+(_sbalordita_) Che... che donna?
+
+LIVIA
+
+Aspetta! aspetta! — Spero di potertelo dire tra poco!
+
+ZIA ERNESTINA
+
+(_dopo una pausa di sbalordimento: in tono di rimprovero contenuto_)
+Ma che pensi! che cerchi! — Statti quieta, figliuola mia; e credi che
+quella è una donna che ha molto sofferto...
+
+LIVIA
+
+Sofferto. Si vede dai capelli.
+
+ZIA ERNESTINA
+
+Credi... credi... — (_Con un gesto comico, pensando ai suoi capelli
+ritinti_) Che c'entrano i capelli!
+
+LIVIA
+
+Intanto sappiamo come l'ha portata!
+
+ZIA ERNESTINA
+
+Dio mio, l'aveva conosciuta...
+
+LIVIA
+
+(_a precipizio_) Da prima ch'io nascessi; l'aveva dimenticata; poi
+s'ammalò; fu chiamato; corse a salvarla... — (_s'interrompe a un
+tratto_) Aspetta, ti dico, che saprò dartene notizie più precise!
+
+ZIA ERNESTINA
+
+Hai chiesto forse informazioni?
+
+LIVIA
+
+Tu non t'impicciare!
+
+ZIA ERNESTINA
+
+C'è di mezzo il signor parroco?
+
+LIVIA
+
+Si vedranno, allora, i riguardi che ha avuto per me mio padre. —
+Già sta sempre come in agguato, con la paura che lo fa guardare
+continuamente davanti e dietro: — E io lo so, lo so, di che teme!
+
+ZIA ERNESTINA
+
+Tu non sai niente! Sta in apprensione per te!
+
+LIVIA
+
+Ch'io venga a sapere, sì! — In due mesi ch'è fuori, è tornato otto
+volte...
+
+ZIA ERNESTINA
+
+Per rivederti, e stare un giorno con te!
+
+LIVIA
+
+No, no! Per altro! — E non fa più nulla! — È una pietà, un
+avvilimento... per non dire un'altra cosa: a cinquant'anni, vederlo
+così, appresso a una donna come quella. — Perchè non la sposò prima, se
+è vero che la conosceva da tanto tempo?
+
+ZIA ERNESTINA
+
+Perchè forse prima non poteva. Oh bella!
+
+LIVIA
+
+Non era mica maritata, lei. Egli era vedovo... Perchè non poteva?
+
+ZIA ERNESTINA
+
+E che ne sai tu che — potendolo — non lo faceva, per esempio, per te?
+
+LIVIA
+
+Per me? — Per me, no! Per me sarebbe stato meglio, che l'avesse fatto
+prima, quand'ancora non capivo.
+
+ZIA ERNESTINA
+
+E sarà stato allora per altro! Non cercare!
+
+LIVIA
+
+Dici per mia madre? No! Perchè ciò che anzi mi sdegna sopratutto è che
+questo suo amore si vede così chiaro che lo riporta alla sua gioventù,
+proprio ai tempi di mia madre — come un'irriverenza tanto più cruda
+alla memoria di lei. Mi pare quasi che la tradisca _ora_: mi fa questa
+impressione; come se mia madre, dopo tredici anni, ritornasse, per
+questo loro amore pòstumo, viva e giovane, per soffrirne! — Per questo,
+per questo la odio tanto più, questa donna, quanto più la vedo, che
+mi vorrebbe esser materna. Mi fa schifo, orrore, come se, parlandomi,
+guardandomi, facesse ogni volta un tradimento a mia madre.
+
+ZIA ERNESTINA
+
+Ma che dici? che vai farneticando? O vedete un po' che pensieri in una
+testa di bambina, Signore Iddio! — È peccato, pensare certe cose!
+
+LIVIA
+
+Sì, sì — e quando vedrai quello che farò!
+
+ZIA ERNESTINA
+
+Ah senti: meno male che tuo padre ritorna stasera!
+
+LIVIA
+
+Portandomi la sorellina!
+
+ZIA ERNESTINA
+
+Me ne volevo andare. Mi pento di non averlo fatto! — Ma ora, subito,
+appena ritornano... — Che! che!... Io sono pacifica!
+
+LIVIA
+
+Come! Avrai la vita che comincia...
+
+ZIA ERNESTINA
+
+Ma io lo dicevo per te! — Che vuoi che cominci per me! Sono vecchia. —
+Fastidii!
+
+LIVIA
+
+Eh sì! — Comincerà anche per me, la vita...
+
+ZIA ERNESTINA
+
+(_scrollandosi_) Oh infine! Te la vedi tu! — (_Altra lunga pausa. Si
+reca a guardare dalla veranda nel giardino_) Ma guarda! Il cancello del
+giardino, di nuovo aperto!
+
+LIVIA
+
+L'avrà lasciato così il giardiniere. Sarà qui vicino.
+
+ZIA ERNESTINA
+
+Già, ma è sera, a momenti... E con questo tempo! Non c'è neanche Betta
+in casa... — Io ho paura.
+
+LIVIA
+
+Dici per quel signore dell'altra volta?
+
+ZIA ERNESTINA
+
+Proprio lì era — davanti al cancello — ti ricordi?
+
+LIVIA
+
+Che spiava — sì. Ma com'è che tu non lo conoscevi?
+
+ZIA ERNESTINA
+
+Io? — Ma che! — Come?
+
+LIVIA
+
+Se ti disse che aveva conosciuto la mamma!
+
+ZIA ERNESTINA
+
+Ma che! deve aver sbagliato! — Tu eri affacciata su alla finestra.
+Voleva far sapere che conosceva la signora e disse _la mamma_,
+indicando te su.
+
+LIVIA
+
+Dunque tu credi proprio che parlasse di _questa_ signora?
+
+ZIA ERNESTINA
+
+(_impressionata_) Ah, che forse le tue ricerche...?
+
+LIVIA
+
+No, no. Non ci pensavo più, se tu ora non me lo ricordavi. Ma può
+essere anche lui una prova. Uno che viene — chi sa da dove — a
+cercarla...
+
+ZIA ERNESTINA
+
+L'avrà veduta qualche volta!
+
+LIVIA
+
+Chi sa dove...
+
+ZIA ERNESTINA
+
+Ma Livia! Smetti almeno davanti a me di parlare così, perchè a' miei
+tempi le ragazze...
+
+LIVIA
+
+Eh via, cara zia! — Le ragazze? Davvero credi che non capisca che razza
+di donna dev'essere stata quella? — Con quel bel campione! Neanche un
+soprabito aveva... — Ti disse che sarebbe ritornato?
+
+ZIA ERNESTINA
+
+Che avrebbe aspettato il suo ritorno.
+
+LIVIA
+
+Dunque oggi! (_Quasi tra sè_) Vorrei parlargli!
+
+ZIA ERNESTINA
+
+(_dopo un momento di riflessione, decidendosi_) Senti: io vado a
+chiudere il cancello! (_S'avvia_).
+
+LIVIA
+
+No, zia. Lasci fuori il giardiniere?
+
+ZIA ERNESTINA
+
+Avrà la chiave!
+
+  Scende dalla veranda nel giardino. Livia resta assorta a pensare.
+  Poco dopo, la zia Ernestina rientra tutta abbrezzata dal freddo.
+
+ZIA ERNESTINA
+
+(_rientrando_) Ah, proprio si gela stasera!
+
+LIVIA
+
+(_dopo una pausa, ancora assorta_) E non ti sembra strano, che papà
+— risposando — abbia sentito il bisogno di venirsene qui, dove — dopo
+sette mesi — non conosciamo ancora nessuno?
+
+ZIA ERNESTINA
+
+Ah, questo sì! Ha scelto proprio un brutto posto, te lo dico io! Così
+abbandonato, fuori mano... (_dirà questo, strofinandosi le braccia con
+le mani incrociate sul petto, per il freddo. A un tratto, sobbalzando a
+un tonfo cupo improvviso, che viene dall'interno_) Oh Dio!
+
+LIVIA
+
+Che è stato?
+
+ZIA ERNESTINA
+
+Non hai inteso di là?
+
+  BETTA entra dalla comune, tutta infagottata, con un vecchio
+  cappello in capo.
+
+LIVIA
+
+(_ridendo_) Ah, è Betta!
+
+BETTA
+
+(_non comprendendo il perchè dello spavento e della risata_) Che cosa?
+
+ZIA ERNESTINA
+
+La porta... Che spavento! — (_A Betta_) — Freddo, eh?
+
+BETTA
+
+E a momenti pioverà...
+
+ZIA ERNESTINA
+
+Io sto morendo. Corro a prendermi su uno scialletto.
+
+  Via per il secondo uscio a destra. Subito Betta s'accosta a Livia
+  con aria misteriosa.
+
+BETTA
+
+(_piano, gestendo vivamente con le mani_) Chiaro come la luce del sole,
+sa! Non c'è più dubbio!
+
+LIVIA
+
+(_con viva ansia_) Dite, dite!
+
+BETTA
+
+Non poteva qua, non poteva senza scandalo!
+
+LIVIA
+
+È arrivata la risposta?
+
+BETTA
+
+Eh altro! — Da due giorni... Voleva venir lui stesso a comunicargliela.
+Ma, povero vecchio... Mi aspettava.
+
+LIVIA
+
+Ebbene? — Niente?
+
+BETTA
+
+Niente! — Nessun bando in chiesa, nè a Merate, nè a Lodi. Nessuna
+richiesta al municipio di stato libero!
+
+LIVIA
+
+E dunque?
+
+BETTA
+
+Chiaro come la luce del sole, che matrimonio non c'è stato. — Non è
+moglie! — Non sono sposati!
+
+LIVIA
+
+Ma è sicuro che l'atto di morte non poteva bastare?
+
+BETTA
+
+Sicurissimo! — Anche per i vedovi, signorina, c'è bisogno dei bandi! —
+Scusi, in tredici anni, non avrebbe potuto riammogliarsi, anche più di
+una volta? — Niente! Non sono sposati! Ne può esser sicura!
+
+LIVIA
+
+Ma sì! Dev'esser così!...
+
+BETTA
+
+E così si spiega tutto, allora — perchè sia andata a mettere al mondo
+così lontano la figliuola! Qua — dovendo denunziare la nascita — lei
+capisce, si sarebbe scoperta la magagna: che non è moglie; che quella
+è una bastardella qualunque... Ma lo sapremo subito, fra un pajo di
+giorni!
+
+LIVIA
+
+Non mi servirà più! — Mi basta questo!
+
+BETTA
+
+Ma che eran modi da signora quelli!
+
+LIVIA
+
+(_fissa in un pensiero odioso contro il padre_) Ha potuto far questo...
+
+BETTA
+
+Eh, le arti di queste donne! Si può esser sant'uomini: se ci si casca...
+
+LIVIA
+
+Ma il pudore, almeno, di non metterla accanto, sotto lo stesso tetto!
+Farmela chiamar mamma!
+
+BETTA
+
+Già — io non so!...
+
+LIVIA
+
+Ah — ma ora! (_Piano_) Zitta!
+
+  Rientra dal secondo uscio a destra la ZIA ERNESTINA con uno
+  scialletto di lana sulle spalle.
+
+ZIA ERNESTINA
+
+Oh, dico, bisognerà far lume qua. — S'è fatto bujo.
+
+LIVIA
+
+(_a Betta, di furia_) Andiamo su, andiamo su, Betta!
+
+  Livia e Betta escono per il secondo uscio a destra.
+
+ZIA ERNESTINA
+
+(_sola, dopo averle seguite con gli occhi_) Ma che hanno? Di dove
+ritorna quella pettegola? — (_Sta a pensare col fiato trattenuto; poi,
+lasciandolo andare_) Ah, che storia! — Basta, accendiamo.
+
+  Si reca presso la comune a girar la chiavetta della luce elettrica.
+  Nel frattempo MARCO MAURI, già entrato nel giardino quando la zia
+  Ernestina è andata a chiudere il cancello, entra per la veranda. È
+  molto invecchiato in un anno, ma con gli occhi più che mai vivi,
+  di quella tragica ilarità dei pazzi. È senza soprabito, e ancora
+  con un vecchio abito estivo. Si tiene in fondo, in ombra, presso la
+  veranda.
+
+MAURI
+
+(_appena la zia Ernestina fa lume nella scena_) Permesso?
+
+ZIA ERNESTINA
+
+(_con terrore, voltandosi, ancora con la mano sulla chiavetta della
+luce_) Oh Dio! Chi è?
+
+MAURI
+
+Io. Non si spaventi.
+
+ZIA ERNESTINA
+
+Entrate così, come un ladro? — Di dove siete entrato?
+
+MAURI
+
+Dal cancello, prima che lei lo richiudesse.
+
+ZIA ERNESTINA
+
+Vi tenevate dunque in agguato?
+
+MAURI
+
+I ladri, signora, non chiedono permesso, e non aspettano che si faccia
+lume per entrare.
+
+ZIA ERNESTINA
+
+Ma chi siete? Che volete, di nuovo qua?
+
+MAURI
+
+Le chiesi l'altra volta, se si ricorda...
+
+ZIA ERNESTINA
+
+Non sono ritornati!
+
+MAURI
+
+Lei mi disse oggi.
+
+ZIA ERNESTINA
+
+Ma non sono ritornati! E non si sa, se e quando ritorneranno. Potete
+dunque andare!
+
+MAURI
+
+Non s'inquieti. Vuol dire che aspetterò ancora. Tranne che lei non
+voglia indicarmi dove potrei andare a trovarla subito. — E credo che
+sarebbe meglio, perchè qua...
+
+ZIA ERNESTINA
+
+Sono in viaggio! sono in viaggio! (_Squadrandolo, incuriosita, ma
+sempre arcigna e sospettosa_) Ma che avete da dirle? perchè volete
+aspettarla? — Il vostro nome?
+
+MAURI
+
+Inutile che lo lasci a lei, il mio nome. Bisogna ch'io la veda e le
+parli. (_Alludendo a Fulvia_) — Mi conosce; e anche il marito. Lei
+forse è una parente?
+
+ZIA ERNESTINA
+
+Sì, la zia.
+
+MAURI
+
+(_guardandola male_) Di chi?
+
+ZIA ERNESTINA
+
+(_evadendo, messa in sospetto dalla domanda_) La zia della... della...
+cioè, prozìa, veramente — della figliuola.
+
+MAURI
+
+Prozìa paterna?
+
+ZIA ERNESTINA
+
+(_senza più riflettere; confusa_) No — materna.
+
+MAURI
+
+E allora... (_Ripigliandosi_) Ma che! — Non può essere! Ne aveva una
+sola!
+
+ZIA ERNESTINA
+
+(_vinta dalla curiosità — piano — ma pur senza disarmare_) Io, io —
+sono io!
+
+MAURI
+
+(_la guarda con occhi ìlari, tèneri, e dice piano, con gioja_) La zia
+Ernestina? Lei è dunque la zia Ernestina? — Fulvia credeva che lei
+fosse morta!
+
+ZIA ERNESTINA
+
+Piano — zitto — per carità!
+
+MAURI
+
+(_più piano, misteriosamente_) Perchè è morta lei, invece, qua? (_Ma lo
+dice con gioja, e si mette un dito sulla bocca, stringendo coi denti il
+labbro inferiore. Poi aggiunge, con un gesto allegro delle mani, come
+se fosse una fortuna_) Ancora morta, eh? ancora morta per la figlia?
+(_Trae un gran sospiro_) Ah, come sono contento! Come mi sento leggero!
+come mi sento leggero! — Temevo questo soltanto! Che qua si fosse
+chiarito... (_Subito con foga, abbracciandola_) — E allora m'ajuti,
+m'ajuti, zia Ernestina, lei che conosce lo strazio...
+
+ZIA ERNESTINA
+
+(_atterrita, divincolandosi_) Ma siete matto? — Io non vi conosco!
+
+MAURI
+
+No, dico lo strazio!
+
+ZIA ERNESTINA
+
+(_c. s._) Ma che strazio! Di che?
+
+MAURI
+
+Di Fulvia! di Fulvia!
+
+ZIA ERNESTINA
+
+Ma dove? — Lasciatemi! — (_svincolandosi_) grido!
+
+MAURI
+
+Se è ancora morta per la figlia!
+
+ZIA ERNESTINA
+
+Ma ne ha un'altra, ora, di figlia — tutta per sè — da un mese!
+
+MAURI
+
+(_con un gesto e con voce d'allegra noncuranza_) Non importa! Non
+importa!
+
+ZIA ERNESTINA
+
+Come non importa?
+
+MAURI
+
+Lo sapevo. — Non importa! — Anche con questa figlia, allora, se ne
+voleva venire con me! — Niente... Fu un momento! Ebbe la debolezza
+di cedergli. — Quello che ho passato, zia Ernestina!... Ah!...
+(_Strizza tutto il volto, e scuote le mani. Poi, riaprendo gli
+occhi, pallidissimo, ha come una vertigine e sta per cadere. — La
+zia Ernestina si spaventa_) Niente... niente... (_Ride_) — Penso da
+stamattina, come lo chiamavano gli antichi quel fiume...
+
+ZIA ERNESTINA
+
+(_trasecolata_) Che fiume?
+
+MAURI
+
+Ah sì, il Lete... Il Lete, ecco... (_Caricando il tono_) Il fiume
+dell'oblìo!
+
+ZIA ERNESTINA
+
+Siete ubriaco?
+
+MAURI
+
+No. Scorre veramente nelle taverne, ora, questo fiume. Ma io non bevo!
+— E sono tante notti, cara zia Ernestina, che non dormo più. Mi sento
+gli occhi, sa come? — qua, questi due archi delle ciglia — sa, gli
+archi di certi ponticelli che accavalcano la rena, i ciottoli d'un
+greto asciutto, arido, pieno di grilli? — Così! — E ce li ho qua,
+davvero, negli orecchi, due grilli maledetti, che stridono, stridono
+da farmi impazzire! — Ah, posso parlare, posso parlare, ora, davanti
+a lei! E parlo anche bene — no? come quand'ero in campagna, là,
+che m'esercitavo nell'oratoria, sperando d'esser promosso Pubblico
+Ministero, e imbussolavo i temi e mi mettevo a improvvisare ad alta
+voce, tra gli alberi: — _Signori della Corte, Signori Giurati_... —
+Parlo, parlo, mi scusi, perchè non posso farne a meno... Ho una smania
+qui, nello stomaco... Mi metterei a gridare, dalla gioja... — La vedrò!
+— Fulvia le ha certo parlato di me.
+
+ZIA ERNESTINA
+
+No! Mai! — Io non so chi siete!
+
+MAURI
+
+Non è possibile, scusi, che non le abbia detto che tentò d'uccidersi,
+or è un anno.
+
+ZIA ERNESTINA
+
+Questo sì, me lo disse.
+
+MAURI
+
+E non le parlò di me?
+
+ZIA ERNESTINA
+
+Mi parlò della vita che non poteva più tollerare!
+
+MAURI
+
+Non è vero! Fu per me! — Lo nega, lo so. — Ma fu per me!
+
+ZIA ERNESTINA
+
+(_tornando a squadrarlo, atterrita, ma pur con una certa pietà
+d'avvilimento_) Per voi?
+
+MAURI
+
+(_con uno scatto di sdegno_) Ma non mi guardi il vestito, mi faccia il
+piacere!
+
+ZIA ERNESTINA
+
+(_c. s. per rimediare_) No... vi vedo... vi vedo così...
+
+MAURI
+
+Non ho freddo! Tremo; ma non ho freddo. — Nervi! — Convulso! — Non ci
+penso! — Potrei guadagnare, volendo. — Non ci penso! — Da un anno, da
+un anno, io... (_troncando_) — È impossibile! — Bisogna finirla, in un
+modo qualunque.
+
+ZIA ERNESTINA
+
+Ma che volete finire più! — È finita!
+
+MAURI
+
+Ah no, sa! — Non è vero! Non può esser vero! — Ora che l'ho scovata!
+
+ZIA ERNESTINA
+
+Ma se vi dico che ora ha la sua bambina!
+
+MAURI
+
+Ma appunto per questo! Anzi! — Ora si vedrà!...
+
+ZIA ERNESTINA
+
+Siete venuto per questo? — Che intenzioni avete?
+
+MAURI
+
+Son venuto... sono venuto perchè non ne posso più!
+
+ZIA ERNESTINA
+
+Ma vi assicuro che lei non si ricorda più di voi, e potete esser certo
+che ora non pensa più ad altro che a sua figlia!
+
+MAURI
+
+Se fosse vero, sarebbe una disgrazia, questa. Una disgrazia, zia
+Ernestina, perchè ci sono anch'io! C'è, oltre la nostra, cara zia
+Ernestina, c'è — anche quando vorremmo che non ci fosse — c'è pure la
+vita degli altri! — Eh, come si fa!... Non possiamo chiuderci nella
+nostra vita, come se gli altri non ci fossero! — Se la mia vita è in
+quella di lei, e senza di lei io non posso vivere...
+
+ZIA ERNESTINA
+
+Ma nessuno ha l'obbligo...
+
+MAURI
+
+D'amare un altro per forza? Lo so! — È questa la disgrazia! — Ma allora
+la vita, cara zia Ernestina, s'uccide dov'è! dove uno l'ha!
+
+ZIA ERNESTINA
+
+(_con terrore_) Oh Dio! Che vorreste fare?
+
+MAURI
+
+Non lo so. — Sono qua. — Mi forzo da un anno a tentare di vivere senza
+di lei. Ho visto che non posso!
+
+  Sopravviene a questo punto, dalla veranda, il GIARDINIERE, in gran
+  fretta.
+
+IL GIARDINIERE
+
+(_annunziando_) — Signorina, i padroni! arrivano i padroni!
+
+ZIA ERNESTINA
+
+Dio mio — (_A Mauri_) Andate! andate, per carità!
+
+MAURI
+
+Io resto.
+
+ZIA ERNESTINA
+
+(_al giardiniere_) Andate su, Giovanni, ad avvertire!
+
+IL GIARDINIERE
+
+(_correndo verso il secondo uscio a destra_) Sissignora! sissignora!
+(_Esce_).
+
+ZIA ERNESTINA
+
+Vorreste fare uno scandalo al suo arrivo, davanti alla figliuola?
+
+MAURI
+
+No. Io parlerò. E dirò tutto!
+
+ZIA ERNESTINA
+
+Per carità! Voi siete pazzo! Andate! andate!
+
+MAURI
+
+Non me ne vado.
+
+ZIA ERNESTINA
+
+Vi prometto che gliene parlerò io! — Aspettate almeno fino a domani!
+
+MAURI
+
+No, questa sera.
+
+ZIA ERNESTINA
+
+Sì, va bene — questa sera — ma più tardi, quando sarà sola!
+
+MAURI
+
+Me lo promette?
+
+ZIA ERNESTINA
+
+Sì, sì — non dubitate! — Il vostro nome?
+
+MAURI
+
+Marco Mauri.
+
+ZIA ERNESTINA
+
+Ecco... ecco, arrivano! — Andate... andate di qua!
+
+  Lo fa uscire per la veranda nel giardino. Entrano, poco dopo, BETTA
+  dal secondo uscio a destra, e contemporaneamente dalla comune, in
+  abito da viaggio, FULVIA e SILVIO, seguiti dalla BAMBINAJA, che
+  regge su un ricco port-enfant la neonata, nascosta da un lungo velo
+  color di rosa.
+
+FULVIA
+
+(_con un primo impulso di correre ad abbracciare la zia Ernestina,
+e poi trattenendosi e porgendole soltanto la mano_) Oh zia... cara
+signorina Ernestina! Come va?... come va? — (_Nota che Livia manca_)
+Eccoci finalmente di ritorno!
+
+BETTA
+
+Ben tornata, signora! Ben tornato, signor dottore!
+
+FULVIA
+
+Cara Betta... Anche voi... Tutti bene? — (_Alla bambinaja_) Sedete,
+sedete. — (_Le si accosta con la zia Ernestina e con Betta, e le dice,
+alludendo alla bambina_) Seguita a dormire?
+
+  La bambinaja siede. Fulvia e le altre due le si fanno intorno.
+  Fulvia solleva il velo, pian pianino, e mostra loro la bimba
+  dormente.
+
+FULVIA
+
+Eccola qua!
+
+BETTA
+
+Oh com'è bella!
+
+ZIA ERNESTINA
+
+Che amore!... Come dorme!
+
+BETTA
+
+Ma come somiglia: oh — (_a zia Ernestina_) guardi, guardi, come
+somiglia alla signorina Livia! — Non è vero?
+
+ZIA ERNESTINA
+
+Sì, sì...
+
+FULVIA
+
+(_a Silvio_) Te lo dicevo io?
+
+BETTA
+
+Ma tal quale!
+
+ZIA ERNESTINA
+
+Tal quale! — Mi pare di rivederla... Me la ricordo proprio così!
+
+BETTA
+
+Anch'io! anch'io!
+
+FULVIA
+
+(_con un sorriso indefinibile_) Ah già, anche voi... Io certo no — ma
+vedo anch'io che questa le somiglia...
+
+SILVIO
+
+E Livia intanto dov'è?
+
+ZIA ERNESTINA
+
+È su. L'ho fatta avvertire...
+
+BETTA
+
+(_confusa_) Già... sì... era con me...
+
+SILVIO
+
+Andatele a dire che discenda!
+
+BETTA
+
+Ma credo che...
+
+FULVIA
+
+(_a Silvio_) Lasciala, Dio mio! — Se non vuol discendere...
+
+SILVIO
+
+Ma nient'affatto!
+
+FULVIA
+
+Può darsi che non si senta bene.
+
+BETTA
+
+S'è chiusa in camera...
+
+FULVIA
+
+Ecco, vedi? La vedremo domani.
+
+SILVIO
+
+Vado su io!
+
+FULVIA
+
+Vacci per te; ma non la forzare a discendere, se non vuole.
+
+SILVIO
+
+Va bene... va bene... (_Via per il secondo uscio a destra_).
+
+FULVIA
+
+(_a Betta_) Fatemi il piacere, Betta, accompagnate in camera la
+bambinaja.
+
+BETTA
+
+Subito, signora. Andiamo.
+
+FULVIA
+
+(_alla bambinaja che si alza e le passa vicino_) Piano eh? Mi
+raccomando! Non me la fate svegliare.
+
+BETTA
+
+Non dubiti, non dubiti... (_via con la bambinaja per il primo uscio a
+destra_).
+
+FULVIA
+
+(_subito abbracciando la zia Ernestina_) — Ah, zia Ernestina — hai
+visto? (_allude alla bambina_) Sono felice!
+
+ZIA ERNESTINA
+
+(_cercando di sottrarsi all'abbraccio_) No... senti... senti...
+
+FULVIA
+
+Che c'è?
+
+ZIA ERNESTINA
+
+C'è un guajo! c'è un guajo!
+
+FULVIA
+
+Livia? — E lasciala stare!
+
+ZIA ERNESTINA
+
+No! Uno che è venuto a cercarti.
+
+FULVIA
+
+Me? Chi?
+
+ZIA ERNESTINA
+
+Mi ha detto il nome... — È di là, in giardino!
+
+FULVIA
+
+In giardino? Lì? E chi è? A quest'ora?
+
+ZIA ERNESTINA
+
+Vuol parlarti!
+
+FULVIA
+
+Lì, nascosto?
+
+ZIA ERNESTINA
+
+È un forestiere. Non se ne voleva andare. Gli promisi che te l'avrei
+detto.
+
+FULVIA
+
+Ma come! Ora?
+
+ZIA ERNESTINA
+
+Più tardi... — Era venuto anche due giorni fa.
+
+FULVIA
+
+(_quasi tra sè_) Che sia ancora quel pazzo?
+
+ZIA ERNESTINA
+
+Un pazzo, sì! Pare un pazzo... Mi disse che tu, per lui...
+
+FULVIA
+
+Mauri? t'ha detto Mauri?
+
+ZIA ERNESTINA
+
+Sì... mi pare così...
+
+FULVIA
+
+E che vuole?
+
+ZIA ERNESTINA
+
+Mi pare che abbia cattive intenzioni...
+
+FULVIA
+
+Contro di me?
+
+ZIA ERNESTINA
+
+Dice che senza di te non può vivere...
+
+FULVIA
+
+Eh via! Ancora? — Gli hai detto che io...?
+
+ZIA ERNESTINA
+
+Sì, sì — della bambina!
+
+FULVIA
+
+E dunque!
+
+ZIA ERNESTINA
+
+Ma dice che non glien'importa!
+
+FULVIA
+
+È pazzo! — Niente... — non temere, zia Ernestina.
+
+ZIA ERNESTINA
+
+Ma è di là... — E se...
+
+FULVIA
+
+Questo sì, questo sì — può fare uno scandalo. — Ma com'è venuto? Come
+ha saputo? — Che t'ha detto?
+
+ZIA ERNESTINA
+
+Ma... — io non ci ho capito niente... Ha parlato finanche di grilli...
+S'è messo a predicare... Dice però così, che bisogna finirla.
+
+FULVIA
+
+Ancora?
+
+ZIA ERNESTINA
+
+Gliel'ho detto! — Ma ha minacciato! Gli ho detto...
+
+FULVIA
+
+Lascia! lascia! Temo ora qua per Livia; che senta... Ma non voglio
+agitarmi, non voglio agitarmi... — (_Con gioia_) L'allatto io, sai?
+
+  Sopravviene dal secondo uscio a destra, SILVIO.
+
+FULVIA
+
+Oh, Silvio...
+
+SILVIO
+
+Mi ha detto che ora discende.
+
+FULVIA
+
+Livia? Ma no! Era meglio che rimanesse su!
+
+SILVIO
+
+Nient'affatto! — Lo deve anche per rispetto a me.
+
+FULVIA
+
+E l'hai costretta?
+
+SILVIO
+
+Non posso tollerare che seguiti così! Non mi ha voluto neanche aprire!
+Ma ha promesso infine che ora discenderà.
+
+FULVIA
+
+(_a zia Ernestina_) Cerchi, cerchi lei d'impedirlo, zia Ernestina!
+
+SILVIO
+
+Perchè?
+
+FULVIA
+
+Perchè c'è di là, in giardino, — ... quel Mauri, sai?
+
+SILVIO
+
+(_restando_) Qua — e come?
+
+FULVIA
+
+Pare che sia qua da due giorni.
+
+ZIA ERNESTINA
+
+Sì, sì. — Era venuto a domandare...
+
+SILVIO
+
+(_con viva agitazione_) E ha parlato con Livia?
+
+ZIA ERNESTINA
+
+No, no — con me!
+
+SILVIO
+
+E che vuole?
+
+FULVIA
+
+Ma, al solito! La sua pazzia!
+
+SILVIO
+
+Ancora? — Ma come ha scoperto?
+
+FULVIA
+
+Che vuoi ch'io sappia! — Va', va' — cerca di farlo andar via, prima che
+Livia discenda. (_Silvio s'avvia verso la veranda_).
+
+ZIA ERNESTINA
+
+No: solo, no!
+
+SILVIO
+
+(_scrollandosi e uscendo_) Ma via!
+
+ZIA ERNESTINA
+
+Da' ascolto a me: sarà meglio mandarci Giovanni!
+
+FULVIA
+
+(_irritata_) Ma no, zia! Debbono esser soli... — Mi metti in
+apprensione...
+
+ZIA ERNESTINA
+
+Io l'ho veduto in uno stato...
+
+FULVIA
+
+Ma piuttosto, allora, ci vado io!
+
+ZIA ERNESTINA
+
+No! Tu, no!
+
+  Rientra dal secondo uscio a destra BETTA.
+
+FULVIA
+
+(_subito, a Betta_) Dov'è Giovanni?
+
+BETTA
+
+Mah... io non so... Dev'esser nel suo casotto, in giardino.
+
+ZIA ERNESTINA
+
+Ah, bene, bene, allora!... — Sarà disceso di là...
+
+BETTA
+
+Non so, signora, se debbo eseguire l'ordine che m'ha dato la
+signorina...
+
+FULVIA
+
+Che ordine?
+
+BETTA
+
+Vorrebbe che l'automobile...
+
+ZIA ERNESTINA
+
+Ho capito! — Se ne vuole andare! — Me l'ha detto.
+
+FULVIA
+
+Che? Se ne vuole andare? — Dove?
+
+BETTA
+
+Pare che si sia preparata...
+
+FULVIA
+
+Per andarsene? Ma che è fatto apposta, questa sera, appena arrivo?
+
+ZIA ERNESTINA
+
+No, carina mia, da un pezzo, da un pezzo si congiura qui! (_E guarda
+fremendo Betta_).
+
+BETTA
+
+Dice a me, signorina?
+
+ZIA ERNESTINA
+
+A voi, a voi, sì! — Col signor parroco... Non so che ambasciate...
+
+FULVIA
+
+Ma dove vuole andarsene? Perchè?
+
+BETTA
+
+Io non so... Io sono stata comandata...
+
+FULVIA
+
+Che c'entra il parroco?
+
+ZIA ERNESTINA
+
+Ci siete stata anche oggi, per più di quattr'ore! Non negate!
+
+FULVIA
+
+(_con lo sdegno di chi non vuol più darsi pena per una così palese e
+dura ingiustizia_) Eh, via! Se la vedrà con suo padre! — Io vado dalla
+mia bambina.
+
+  Fa per avviarsi verso il primo uscio a destra, quando, dal secondo,
+  appare LIVIA, pronta per partire.
+
+FULVIA
+
+(_arrestandosi_) Ma che cos'è? Che pazzie son queste, Livia?
+
+LIVIA
+
+Dov'è mio padre?
+
+FULVIA
+
+Vuoi andare? Dove vuoi andare?
+
+LIVIA
+
+Lo so io.
+
+FULVIA
+
+Ma dici sul serio? A quest'ora? — E perchè poi? — Senza nessuna ragione?
+
+LIVIA
+
+La so io, la ragione. — E dovreste saperla anche voi!
+
+FULVIA
+
+(_colpita da quel «voi», la guarda_) Ah, mi dài del voi, ora? — Per la
+buona accoglienza, è vero? — Ma insomma, che è accaduto qui? — Qual'è
+la ragione, ch'io dovrei sapere?
+
+LIVIA
+
+Io voglio parlare con mio padre! — Dov'è?
+
+FULVIA
+
+Ma ti figuri che tuo padre possa lasciarti andar via?
+
+LIVIA
+
+Non ha più nessun diritto, mio padre, di tenermi qua, accanto a voi!
+
+FULVIA
+
+Vuoi dire accanto a _me_?
+
+LIVIA
+
+No. Dico accanto a _voi_!
+
+FULVIA
+
+(_torna a guardarla; si frena_) E va bene! Di' come vuoi. — Ma perchè
+credi che tuo padre...?
+
+LIVIA
+
+Questo lo vedrò con lui!
+
+FULVIA
+
+Oh, insomma! sì — veditela con lui! — Sono stanca. Tu non hai neppur
+veduto come e con chi sono ritornata... (_Fa per avviarsi_).
+
+LIVIA
+
+Andate, sì. — Tanto meglio! Ci sarà _quella_, ora, qua, per tutti
+quanti.
+
+FULVIA
+
+(_con un baleno di speranza, che la decisione di Livia sia per
+gelosia della sorella_) Ah, per questo? — No, Livia! Tu non puoi
+sapere, figliuola mia, com'io, venendo, abbia desiderato di metterti
+accanto, nel mio cuore, a quella bambina che è di là... (_E fa per
+abbracciarla_).
+
+LIVIA
+
+(_con subitaneo, fierissimo moto di repulsione_) Ah no — lasciatemi —
+grazie! Accanto a quella, io non ci sto!
+
+FULVIA
+
+(_con uno sforzo sovrumano per dominarsi, ferendo sè stessa, pur di
+salvare da quella repulsione la bambina_) Tu dici per me, è vero,
+Livia? — Non dici per la bambina!
+
+LIVIA
+
+Ma se lo dico per voi — è anche per lei!
+
+FULVIA
+
+No — ah — no! Perchè — comunque tu pensi di me — voglia o non voglia —
+quella è tua sorella!
+
+LIVIA
+
+Quando lo sarà! Per ora, no. — Non è vero!
+
+FULVIA
+
+Come non è vero?
+
+LIVIA
+
+Non è vero, perchè voi non siete la moglie di mio padre!
+
+FULVIA
+
+No? E che sono?
+
+LIVIA
+
+Lo sapete meglio di me, che cosa siete!
+
+FULVIA
+
+(_di nuovo, con quel baleno di speranza_) Mi sdegni per questo? —
+Ah, ma se è per questo — no, Livia! — Non so come tu abbia potuto
+pensare...
+
+LIVIA
+
+Dove sono gli atti del vostro matrimonio?
+
+FULVIA
+
+(_rivolgendosi un po' alla zia Ernestina, un po' a Betta_) Ah, è questa
+la congiura? Voi due avete fatto ricerche? (_Indica Betta e Livia_).
+
+LIVIA
+
+Non ci sono! non ci sono!
+
+FULVIA
+
+(_con scatto di fierezza, per troncare_) Ci sono! — Tu hai cercato
+male! — Ci sono!
+
+LIVIA
+
+Non basta negare! — Se diceste dove?
+
+FULVIA
+
+Per carità, Livia, non farmi dire... — Per carità di te stessa, più che
+di me — non cimentarmi; te ne scongiuro. Sono veramente stanca.
+
+LIVIA
+
+No. Non c'è bisogno che diciate. A me mi basta questo.
+
+FULVIA
+
+Che ti basta?
+
+LIVIA
+
+Ma questo riconoscimento.
+
+FULVIA
+
+Quale?
+
+LIVIA
+
+Ma che nascondete cose che — _per carità di me_ — non potete dire.
+
+FULVIA
+
+Ma no! Io non nascondo nulla!
+
+LIVIA
+
+M'avete scongiurata di non farvi dire... Che cosa? Cose che riguardano
+me?
+
+FULVIA
+
+No — no — non dico questo...
+
+LIVIA
+
+E allora? — Cose che riguardano voi?
+
+FULVIA
+
+Me — sì...
+
+LIVIA
+
+Ma io me le immagino!
+
+FULVIA
+
+Tu non t'immagini niente! Non son cose che tu possa immaginarti! — Ed
+è meglio così — ti dico io stessa che è meglio così! — Lasciami star
+tranquilla.
+
+LIVIA
+
+Ma starete tranquilla, ora: Me ne vado!
+
+FULVIA
+
+Non puoi andartene! Non devi! Ho patito il martirio, io, un anno, qua,
+perchè tu restassi accanto a tuo padre almeno, poichè accanto a me non
+vuoi...
+
+  Livia la guarda male.
+
+FULVIA
+
+(_subito, allora, correggendosi_) Non puoi, non puoi — va bene! — E non
+ho fatto nulla io, per costringerti, se non dimostrarti tutto l'affetto
+d'una _vera madre_, finchè non me ne sono astenuta, vedendo che tu
+non potevi rispondere a quest'affetto, e che anzi ne provavi sdegno,
+anzichè piacere. — Ebbene, non voglio nulla. Seguita pure a sdegnarmi.
+— Ma sono la moglie legittima di tuo padre. E non te lo dico per me. Te
+lo dico per la bambina di là — che tu perciò devi amare; anche se non
+ami me: _perchè è tua sorella!_ Una figlia, tal quale come te, senza
+nessuna differenza! — E questo anzi è bene tu lo intenda subito: —
+_Senza differenza!_ — Non potrei ammettere, che tu ne pensassi per lei
+una sola!
+
+LIVIA
+
+Tranne quella della madre, mi concederete.
+
+FULVIA
+
+(_perdendo a questo punto, alla sferzante ironia, ogni dominio di sè_)
+No, nemmeno questa!
+
+LIVIA
+
+(_fredda, più che mai ironica_) Come, nemmeno questa? Non siamo mica
+figlie della stessa madre!
+
+FULVIA
+
+Ma che credi che sia io? Che pensi tu di me?
+
+LIVIA
+
+Le stesse cose, che proprio voi stimate da nascondere.
+
+FULVIA
+
+E vorresti farle pesare su mia figlia? — Ah, no, sai!
+
+LIVIA
+
+Mia madre...
+
+FULVIA
+
+Ma che tua madre! — Finiscila! — Tu non l'hai conosciuta!
+
+LIVIA
+
+Se non l'ho conosciuta — so chi era; e so chi siete voi!
+
+FULVIA
+
+Chi sono io? (_la afferra; la scrolla, al colmo del furore_) Che puoi
+saperne tu? — Ah, sì? — Ne sei certa? — E non te lo leverai dalla
+testa? E crederai che mia figlia abbia per madre una donnaccia? Sì? sì?
+E io ti dico allora che anche tu sei figlia d'una tal donnaccia!
+
+LIVIA
+
+(_atterrita, inorridita_) No, no!
+
+FULVIA
+
+Sì! sì! Tal quale! Figlie della stessa madre! — E sono io tua madre! —
+sono io! sono io! Capisci ora? T'hanno fatto credere ch'io fossi morta?
+Non è vero! Eccomi qua! Sono tua madre! E quello che sono per lei,
+sono per te! — Senza differenza! senza differenza! — Ah, ora mi sono
+liberata! Ora sono viva!
+
+  Dirà questo, abbandonando come morta Livia nelle braccia del padre,
+  che alle grida è accorso in subbuglio insieme con Marco Mauri dalla
+  veranda.
+
+SILVIO
+
+(_raccogliendosi tra le braccia Livia e stringendola a sè_) Ma tu l'hai
+uccisa!
+
+FULVIA
+
+La tua impostura ho uccisa! Volevi che pesasse anche sulla bambina e
+schiacciasse anche lei? Ebbene: No! no!
+
+SILVIO
+
+Ma tu ora non puoi stare più qui!
+
+FULVIA
+
+E me ne vado! Me ne vado, sì! Ma non più come prima! Ah, non più come
+prima, ora! (_A Mauri_) — La mia bambina! Vai! Di là — la mia bambina!
+(_indica il primo uscio a destra — e il Mauri accorre_) La mia bambina!
+
+SILVIO
+
+(_cercando di scuotere la figlia, come morta_) Livia! Livia!
+
+FULVIA
+
+(_che si sarà fatta presso il primo uscio a destra, in fremente attesa
+che il Mauri le rechi la bambina_) Che Livia! Me la porto via con me
+Livia, questa volta! Diglielo, quando rinviene! — Lei, sì — viva — e
+mia! — con me, viva! — Nella vita! — Alla ventura!
+
+
+  TELA
+
+
+
+
+
+Nota del Trascrittore
+
+Ortografia e punteggiatura originali sono state mantenute, correggendo
+senza annotazione minimi errori tipografici.
+
+*** END OF THE PROJECT GUTENBERG EBOOK COME PRIMA MEGLIO DI PRIMA ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's web site
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
